@@ -1,0 +1,503 @@
+,brand,current_price,old_price,discount,description,ratings,times_reviewed,ROM,RAM,mAh,camera,total_camera,screen_size(inch),star
+0,Gionee,48000,73630,35,Gionee K3 (M100) 4GB+64GB 6.22 Inch HD+ Android  P 5000 Mah Dual SIM 4G LTE Smartphone,70,10,64.0,4.0,5000.0,,21.0,6.22,3.5
+1,Nokia,59520,119660,50,"7， 5.2-inch (4GB, 64GB ROM) Android 7.1, 16MP + 5MP, 3000mAh, Dual Sim 4G LTE Smartphone - Black",76,10,64.0,4.0,3000.0,16MP+5MP,21.0,5.2,4.0
+2,UMIDIGI,25990,29990,13,"A3S Android 10 Global Band 3950mAh 5.7"" Smartphone 13MP Selfie Triple Slots Dual 4G VoLTE Celular",86,99,32.0,4.0,3950.0,13MP,13.0,5.7,4.5
+3,Nokia,42990,70485,39,3.2 3GB RAM 32GB 6.26 Inch 13MP Camera Dual SIM 4G Android 9.0 Googleplay Phone,81,104,32.0,3.0,,13MP,13.0,6.26,4.5
+4,UMIDIGI,25990,29990,13,"A3S Android 10 Global Band 3950mAh 5.7"" Smartphone 13MP Selfie Triple Slots Dual 4G VoLTE Celular",78,148,32.0,4.0,3950.0,13MP,13.0,5.7,4.0
+5,Gionee,37350,49990,25,"S11 Lite 5.7-Inch HD (4GB,64GB ROM) Android 7.1 (13MP + 2MP) + 16MP Dual SIM 4G LTE Fingerprint ID Smartphone - Black",85,1145,64.0,4.0,,13MP+2MP+16MP,31.0,5.7,4.5
+6,Gionee,37970,55000,31,"S11 Lite 5.7-Inch HD (4GB,64GB ROM) Android 7.1 (13MP + 2MP) + 16MP Dual SIM 4G LTE Fingerprint ID Smartphone - Gold",85,668,64.0,4.0,,13MP+2MP+16MP,31.0,5.7,4.5
+7,Tecno,36000,36000,0,"Spark 3 (KB7) 6.2-Inch HD (1GB,16GB ROM) Android 8.1 Oreo, 13MP + 8MP Dual SIM 3G Smartphone - Aqua Blue (JF)",75,11,16.0,1.0,,13MP+8MP,21.0,6.2,4.0
+8,Nokia,32300,59670,46,3.1 Global Version Phone 5.2 Inch 3GB RAM+32GB ROM MTK MT6750N Octa Core 4G Smartphone,87,36,32.0,3.0,,,21.0,5.2,4.5
+9,Nokia,60699,80000,24,"6.1 Plus (Nokia X6) 5.8"" (4GB RAM, 64GB ROM) Android 8.1,(16MP+5MP) + 16MP, 3060mAh, Hybrid Dual SIM 4G Smartphone-Blue",98,22,64.0,4.0,3060.0,16MP+5MP+16MP,37.0,5.8,5.0
+10,Nokia,35699,45999,22,"5.1, 5.5-inch (3GB RAM 32GB ROM), Android 9 Pie, Dual Sim, 16MP+8MP 2970mAh 4G Smartphone-BLACK",88,42,32.0,3.0,2970.0,16MP+8MP,24.0,5.5,4.5
+11,Oukitel,25880,43500,41,"C12 - 3G - 6.18"" (2GB RAM, 16GB ROM) - Dual SIM - Fingerprint Sensor - 3300mAh - Black",83,374,16.0,2.0,3300.0,,21.0,6.18,4.5
+12,Oukitel,43199,55999,23,"C17 Pro 6.35-inch Android 9.0 With Back Case,(4GB RAM 64GB ROM)Cortex A53 2.0GHz Triple Rear Cameras 4G Smartphone-BLUE",83,155,64.0,4.0,,,21.0,6.35,4.5
+13,Tecno,59900,65000,8,"Pouvoir 3 Plus (LB8a) 6.35"" AMOLED (64GB ROM+ 4GB RAM) Android 9, (13MP + 8MP + 2MP)+8MP 6000mAh 4G LTE - Gold",80,4,64.0,4.0,6000.0,13MP+8MP+2MP+8MP,31.0,6.35,4.0
+14,Samsung,69890,72990,4,"Galaxy A20s 6.5-Inch (3GB,32GB ROM) Android 9.0 Pie,  Triple Camera (13MP/5MP/8MP) + 8MP 4G LTE Fingerprint - Black",91,33,32.0,3.0,,13MP+5MP+8MP+8MP,34.0,6.5,5.0
+15,Samsung,98499,180000,45,Galaxy S8 Edge 5.8'' QHD(4GB+64GB) 12MP+8MP Smartphone-Midnight Blcak,98,7,64.0,4.0,,12MP+8MP,20.0,5.8,5.0
+16,UMIDIGI,29990,34990,14,"A3X Android 10 Global Version 3GB RAM 5.7"" Smartphone Dual 4G Triple Slots 3300mAh",76,59,32.0,3.0,3300.0,,21.0,5.7,4.0
+17,Leagoo,21929,42370,48,"POWER 2  5.0""HD 2GB+16GB Android 8.1 MT6580A Quad Core Dual Camera Rear Fingerprint  Smartphone",76,5,16.0,2.0,,,21.0,5.0,4.0
+18,Samsung,52000,60000,13,"Galaxy A10s 6.2-Inch (2GB,32GB ROM) Android 9.0, (13MP+2MP)+ 8MP Dual SIM 4000mAh 4G LTE Smartphone - Black (BF19)",88,625,32.0,2.0,4000.0,13MP+2MP+8MP,23.0,6.2,4.5
+19,Oukitel,35299,40999,14,"U25 Pro 4G Phablet 5.5""inch (4GB RAM 64GB ROM) Android 8.1 13.0MP Rear Camera 3200mAh-Purple",84,32,64.0,4.0,3200.0,13.0MP,13.0,5.5,4.5
+20,Oukitel,43199,55999,23,"C17 Pro 6.35-inch Android 9.0 With Back Case,(4GB RAM 64GB ROM)Cortex A53 2.0GHz Triple Rear Cameras 4G Smartphone-BLACK",82,111,64.0,4.0,,,21.0,6.35,4.5
+21,Gionee,48182,199000,76,"M6 Plus(4GB RAM +64GB ROM ,8MP+16MP Camera, 6020mAh Battery, Dual SIM 4G, 6 Inch FHD Display)-Gold",60,2,64.0,4.0,6020.0,8MP+16MP,24.0,6.0,3.0
+22,Oukitel,49500,66040,25,K7 Pro 6.0 Inch 10000mAh OTG 4+64GB Android 9.0 Black EU,80,1,64.0,4.0,10000.0,,21.0,6.0,4.0
+23,Gionee,43026,91892,53,M6 5.5 Inch 4GB RAM 64GB ROM 13MP+8MP Hybrid Dual SIM Android 7.1 4G LTE Smartphone 5000mAh,82,13,64.0,4.0,5000.0,13MP+8MP,21.0,5.5,4.5
+24,Nokia,32999,60000,45,"3.1 - 5.2"" - Android - 8 3GB RAM 32GB ROM - 13MP + 8MP -  Dual SIM 4G LTE Smartphone",84,34,32.0,3.0,,13MP+8MP,21.0,5.2,4.5
+25,Gionee,26800,26800,0,"P10m 6.088"" Waterdrop Display, (1GB, 16GB ROM) 5MP Selfie/8MP Rear, Android 8.1 (Oreo) Go, Dual SIM, 4000mAh - Blue",83,29,16.0,1.0,4000.0,5MP+8MP,13.0,6.09,4.5
+26,Infinix,83000,83000,0,"S5, 128GB ROM, 6GB RAM 6.6 Inches, 4000 Mah Battery, 4 AI Cameras, Fingerprint, 4G LTE,",94,3,128.0,6.0,4000.0,,21.0,6.6,5.0
+27,Cubot,21099,32699,35,"J7 5.7"" Android 9.0 Pie Face ID,(2GB RAM+16GB ROM), Dual Rear Camera 13MP 2800mAh Dual SIM Card 3G Smartphone-BLACK",89,18,16.0,2.0,2800.0,13MP,13.0,5.7,4.5
+28,Samsung,390000,420000,7,"Galaxy Note 10 Plus (Note 10+) 6.8-Inch (12GB RAM, 256GB ROM), (12MP + 16MP) Dual SIM 4,300 MAh Smartphone - Aura White",100,1,256.0,12.0,300.0,12MP+16MP,28.0,6.8,5.0
+29,Gionee,36520,67451,46,"S11 Lite 5.7-Inch HD (4GB,32GB ROM) Android 7.1 (13MP + 2MP) + 16MP Dual SIM 4G LTE Fingerprint ID Smartphone - Black",83,301,32.0,4.0,,13MP+2MP+16MP,31.0,5.7,4.5
+30,Gionee,29800,125405,76,S10C 5.2 Inch HD 4GB RAM 32GB ROM 16MP+13MP Hybrid Dual SIM 4G LTE Smartphone 3100mA,100,1,32.0,4.0,,16MP+13MP,29.0,5.2,5.0
+31,Nokia,35699,45999,22,"5.1, 5.5-inch (3GB RAM 32GB ROM), Android 9 Pie, Dual Sim, 16MP+8MP 2970mAh 4G Smartphone-Blue",78,10,32.0,3.0,2970.0,16MP+8MP,24.0,5.5,4.0
+32,Samsung,132900,250000,47,Galaxy S9 5.8'' Inch QHD 4GB+64GB 12MP+8MP 4G Smartphone-Gold,90,4,64.0,4.0,,12MP+8MP,20.0,5.8,4.5
+33,Letv,34990,54706,36,LeEco Le 2 X520 5.5'' (3GB+64GB ROM) Snapdragon 652 1.8GHz Octa Core 4G Smartphone,80,7,64.0,3.0,,,21.0,5.5,4.0
+34,Oukitel,29990,55980,46,C15 Pro 3GB RAM 32GB ROM 4G 6.088-inch Smartphone MT6761 Quad-core Dual Rear Cameras - Fantastic,100,2,32.0,3.0,,,21.0,6.09,5.0
+35,UMIDIGI,48990,96770,49," A5 Pro FHD Fingerprint Smartphone 6.3"" Android 9.0 4GB+32GB - Space Grey",87,170,32.0,4.0,,,21.0,6.3,4.5
+36,Ulefone,22950,33190,31,"Note 7 - 6.1 Inch 3G Smartphone (1GB,16GB ROM) Triple Camera 3500mAh Face ID -Black",83,16,16.0,1.0,3500.0,,21.0,6.1,4.5
+37,Samsung,400000,420000,5,"Galaxy Note 10 Plus (Note 10+) 6.8-Inch (12GB RAM, 256GB ROM), (12MP + 16MP) Dual SIM 4,300 MAh Smartphone - Aura Glow",85,8,256.0,12.0,300.0,12MP+16MP,28.0,6.8,4.5
+38,Gionee,24999,30000,17,"M6 Mini 5.45"" HD (1GB RAM + 16GB ROM) 5MP Selfie + 8MP Rear Camera, 4000 MAh Battery- Black",72,9,16.0,1.0,4000.0,5MP+8MP,13.0,5.45,4.0
+39,Blackview,23621,39214,40,A30 5.5” Bangs Screen (2+16G) Dual SIM GSM International Mode Bundle,67,9,16.0,2.0,,,21.0,6.0,3.5
+40,Gionee,29300,49800,41,"S10 Lite 5.2-Inch HD (4GB RAM, 32GB ROM) Android 7.1, 16MP + 13MP Hybrid Dual SIM 4G LTE- Gold",100,2,32.0,4.0,,16MP+13MP,29.0,5.2,5.0
+41,Oneplus,350000,350000,0,"7T Pro, 6.67"" (8GB RAM + 256GB ROM) Android 10.0, (48MP + 8MP +16MP) + 16MP Dual SIM - Blue",100,2,256.0,8.0,,48MP+8MP+16MP+16MP,88.0,6.67,5.0
+42,Ulefone,40841,59000,31,Armor X5 4G Phablet 5.5 Inch Android 9.0 MT6763 3GB RAM 32GB ROM 13MP + 2.0MP Rear Camera 5000mAh Battery-Black,85,4,32.0,3.0,5000.0,13MP+2.0MP,15.0,5.5,4.5
+43,Nokia,41990,55000,24,"4.2, 5.71-Inch (3GB, 32GB) Android 9.0 (13MP+2MP)+ 8MP 3000mAh 4G LTE (+ 1 Year Warranty) - Black",92,12,32.0,3.0,3000.0,13MP+2MP+8MP,23.0,5.71,5.0
+44,Samsung,54990,59900,8,"Galaxy A10s 6.2-Inch (2GB RAM, 32GB ROM) Android 9.0 Pie,(13MP+2MP)+8MP,4G LTE, Fingerprint Dual Sim Smartphone - Blue",90,16,32.0,2.0,,13MP+2MP+8MP,23.0,6.2,4.5
+45,Samsung,237900,350000,32,"Galaxy Note 9 - (6GB+128GB)-6.4""- Android 8.1, (12MP+12MP) + 8MP Front Camera, S-Pen, Dual Sim, LTE - Black",100,1,128.0,6.0,,12MP+12MP+8MP,32.0,6.4,5.0
+46,Infinix,60000,60000,0,"HOT 7 Pro (X625C) 6.2"" HD+ (2GB,32GB ROM) Android 9 Pie (13MP+2MP) (13MP+2MP) 4000mAh - Aqua Blue",91,41,32.0,2.0,4000.0,13MP+2MP+13MP+2MP,30.0,6.2,5.0
+47,Nokia,42999,45999,7,"4.2, 5.71 Inches (3GB RAM, 32GB ROM) Android 9.0, (13MP+2MP)+ 8MP 3000mAh 4G LTE Smartphone - Black",82,21,32.0,3.0,3000.0,13MP+2MP+8MP,23.0,5.71,4.5
+48,Gionee,53400,199000,73,"M6 Plus(4GB RAM +64GB ROM ,8MP+16MP Camera, 6020mAh Battery, Dual SIM 4G, 6 Inch FHD Display)-Gold",80,3,64.0,4.0,6020.0,8MP+16MP,24.0,6.0,4.0
+49,Leagoo,19990,29999,33,"KIICAA POWER 5.0 Inch 2GB,16GB ROM  Android 7.0  Dual SIM 3G 4000mAh Fingerprint Smartphone - Black",100,2,16.0,2.0,4000.0,,21.0,5.0,5.0
+50,UMIDIGI,69880,132740,47,F1 Play Android 9.0 Global Bands 6.3 Inch FHD+ NFC 5150mAh 6GB RAM 64GB ROM Helio P60 Octa Core 2.0GHz 4G Smartphone-RED,92,5,64.0,6.0,5150.0,,21.0,6.3,5.0
+51,Infinix,42990,45000,4,"HOT 8 LITE (X650) 6.6"" HD+ 2GB RAM + 32GB ROM, 5000mAh, Andriod 8.1 (8MP+QVGA) Dual Camera +8MP 3G - Black",95,4,32.0,2.0,5000.0,8MP+8MP,16.0,6.6,5.0
+52,Doogee,22990,58320,61,X70 5.5 Inch Face Unlock 2GB RAM 16GB ROM MTK6580A Quad Core 3G Smartphone,83,36,16.0,2.0,,,21.0,5.5,4.5
+53,Samsung,68500,125000,45,Galaxy S7 Edge 5.5'' QHD(4GB+32GB) 12MP+5MP 4G Smartphone-Silver,82,20,32.0,4.0,,12MP+5MP,17.0,5.5,4.5
+54,Samsung,129990,240000,46,Galaxy Note 8 6.3'' QHD Smartphone (6GB+64GB) 12MP Android Phone-Grey,100,1,64.0,6.0,,12MP,12.0,6.3,5.0
+55,Samsung,132900,250000,47,Galaxy S9 5.8'' Inch QHD ( 4GB + 64GB ROM ) 12MP+8MP -Purple,100,1,64.0,4.0,,12MP+8MP,20.0,5.8,5.0
+56,Samsung,240000,240000,0,"Galaxy Note 9 6.4-Inch (6GB RAM, 128GB ROM) Android 8.1 (12MP + 12MP) Dual SIM LTE - Ocean Blue",100,1,128.0,6.0,,12MP+12MP,24.0,6.4,5.0
+57,Samsung,132900,250000,47,Galaxy S9 5.8'' Inch QHD 4GB+64GB 12MP+8MP 4G Smartphone-Midnight Black,100,1,64.0,4.0,,12MP+8MP,20.0,5.8,5.0
+58,Samsung,152999,160000,4,"Galaxy Note 8 6.3-Inch QHD(6GB,64GB ROM) Android 7.1 Nougat, (12MP + 12MP) + 8MP Dual SIM 4G LTE (Midnight Black)",100,1,64.0,6.0,,12MP+12MP+8MP,32.0,6.3,5.0
+59,Leagoo,30620,61240,50,T8S  5.5 Inch Smartphone Face Recognition 4GB + 32GB  Android 8.1 MTK6750T Octa Core  Dual SIM 4G  LTE,80,7,32.0,4.0,,,21.0,5.5,4.0
+60,Huawei,220000,220000,0,"Y9 Prime 2019 6.59-Inch (4GB, 128GB ROM) Android 9,  16MP Pop-up Selfie Camera, 4000 MAh 4G Smartphone - Midnight Black",93,54,128.0,4.0,4000.0,16MP,16.0,6.59,5.0
+61,Gionee,34990,45003,22,"S11 Lite 5.7-Inch HD (4GB, 32GB ROM) Android 7.1 Nougat, 4G LTE Dual SIM Smartphone",87,676,32.0,4.0,,,21.0,5.7,4.5
+62,Samsung,29990,30000,1,"Galaxy A2 Core 5"" Andorid 9.0 (Pie) 1GB RAM 16GB ROM 5MP + 5MP Camera Dual Sim 2600Mah  - Red",80,1,16.0,1.0,2600.0,5MP+5MP,10.0,5.0,4.0
+63,Nokia,32999,60000,45,"3.1 - 5.2"" - Android - 8 3GB RAM 32GB ROM - 13MP + 8MP -  Dual SIM 4G LTE Smartphone",84,50,32.0,3.0,,13MP+8MP,21.0,5.2,4.5
+64,Huawei,63900,72000,11,"Y7 Prime (2019) 6.26-Inch HD+ Dewdrop (3GB, 32GB ROM) Android 8.1 Oreo (13MP + 2MP) + 16MP Dual SIM 4G 4000mAh Smartphone - Midnight Black",90,160,32.0,3.0,4000.0,13MP+2MP+16MP,31.0,6.26,4.5
+65,Samsung,120000,130000,8,"Galaxy A50 6.4-Inch (4GB,128GB ROM) Android 9 Pie, (25MP+5MP+ 8MP)+ 25MP 4000mAh 4G Dual SIM Smartphone - Blue",89,50,128.0,4.0,4000.0,25MP+5MP+8MP+25MP,63.0,6.4,4.5
+66,Nokia,14000,22000,36,2720 Cheapest Phone 2720 Fold Cell Phone Bluetooth Java Free Shipping,87,3,32.0,4.0,,,21.0,6.0,4.5
+67,Letv,36800,89360,59,Le Pro 3 X651 5.5 Inch AI Dual Rear Camera 4GB RAM 32GB ROM Helio X27 Deca Core 4G Smartphone,85,4,32.0,4.0,,,21.0,5.5,4.5
+68,Nokia,122000,122000,0,"7.2, 6.3-Inch LCD (6GB RAM, 128GB ROM) Android 9.0, (48MP + 8MP + 5MP)+20MP, Dual SIM 4G Smartphone - Charcoal",78,8,128.0,6.0,,48MP+8MP+5MP+20MP,81.0,6.3,4.0
+69,Gionee,26800,36800,27,"P10m 6.088"" Waterdrop Display, (1GB, 16GB ROM) 5MP Selfie/8MP Rear, Android 8.1 (Oreo) Go, Dual SIM, 4000mAh - Black",85,20,16.0,1.0,4000.0,5MP+8MP,13.0,6.09,4.5
+70,Samsung,159600,234080,32,"Galaxy A70 6GB+128GB 6.7"" 32MP Triple Cameras Snapdragon 675 Octa Core Fingerprint Unlock 25W Quick Charge 4500mAh-White",80,1,128.0,6.0,4500.0,32MP,32.0,6.7,4.0
+71,Tecno,24000,30000,20,"F1 5-Inch (1GB, 8GB ROM) Android 8 Oreo (Go Edition), 5MP + 2MP Dual SIM 3G Smartphone - Gold",76,10,8.0,1.0,,5MP+2MP,7.0,5.0,4.0
+72,Samsung,125000,125000,0,"Galaxy A9 6.3-Inch Full HD+ SAMOLED (6GB, 128GB ROM) Android 8.0 Oreo, 24MP + 24MP Dual SIM 4G - Lemonade Blue",100,1,128.0,6.0,,24MP+24MP,48.0,6.3,5.0
+73,Samsung,114990,150000,23,"Galaxy A50 6.4-Inch (4GB,128GB ROM) Android 9 Pie, (25MP+5MP+ 8MP)+ 25MP 4000mAh 4G Dual SIM Smartphone - White",90,44,128.0,4.0,4000.0,25MP+5MP+8MP+25MP,63.0,6.4,4.5
+74,Tecno,59000,59000,0,"Pouvoir 3 Plus (LB8a), 6.35"", (64GB ROM+ 4GB RAM), Android 9, (13MP + 8MP + 2MP)+8MP, 6000mAh 4G LTE,- Champagne Gold",100,1,64.0,4.0,6000.0,13MP+8MP+2MP+8MP,31.0,6.35,5.0
+75,Nokia,36100,54990,34,"Nokia 5.1 5.5"" Full-HD+ 3GB RAM 32GB ROM 16MP+8MP Smartphone Dual Sim -Copper",70,2,32.0,3.0,,16MP+8MP,24.0,5.5,3.5
+76,Gionee,51351,97296,47,M7 Power 6 Inch 4GB RAM 64GB ROM 13MP+8MP Hybrid Dual SIM Android 7.1 4G LTE Smartphone 5000mAh,95,4,64.0,4.0,5000.0,13MP+8MP,21.0,6.0,5.0
+77,Samsung,68500,125000,45,Galaxy S7 Edge 5.5'' QHD(4GB+32GB) 12MP+5MP 4G Smartphone-Black,100,2,32.0,4.0,,12MP+5MP,17.0,5.5,5.0
+78,UMIDIGI,30820,61640,50,"A3 5.5-Inch HD+ Quad Core (2GB+16GB ROM) Android 8.1 Oreo, 12MP + 5MP Dual SIM 4G Smartphone",80,1,16.0,2.0,,12MP+5MP,17.0,5.5,4.0
+79,Tecno,39300,39300,0,"Spark 3, 6.2-Inch Fullview (16GB ROM + 1GB RAM) Android 8.1 Oreo(Go Edition), (13MP+2MP)+8MP, Face Unlock, 3500mAH Battery Dual SIM 3G Smartphone",88,103,16.0,1.0,3500.0,13MP+2MP+8MP,23.0,6.2,4.5
+80,Gionee,26800,26800,0,"P10m 6.088"" Waterdrop Display, (1GB, 16GB ROM) 5MP Selfie/8MP Rear, Android 8.1 (Oreo) Go, Dual SIM, 4000mAh - Gold",86,15,16.0,1.0,4000.0,5MP+8MP,13.0,6.09,4.5
+81,XIAOMI,69999,149999,53,Xiaomi Redmi Note 7 4000mAh 6GB+64GB Smartphone Snapdragon 660 Octa Core  48MP Dual Camera Cellphone,80,1,64.0,6.0,4000.0,48MP,48.0,6.0,4.0
+82,Infinix,73500,73500,0,"S5 6.6-Inch (X652)HD+ Infinity-O Display(64GB ROM, 4GB RAM) (16MP+5MP+2MP+QVGA) (32MP FF) 4000mAh 4G Smartphone",100,1,64.0,4.0,4000.0,16MP+5MP+2MP+32MP,55.0,6.6,5.0
+83,Huawei,51900,55000,6,"Y6 Prime 2019 6.09"" Dewdrop (2GB,32GB ROM) Android 9.0 Pie 13MP + 8MP Dual SIM 4G 3020 MAh- Sapphire Blue",88,105,32.0,2.0,3020.0,13MP+8MP,21.0,6.09,4.5
+84,UMIDIGI,26420,52840,50,"A3 5.5-Inch HD+ Quad Core (2GB+16GB ROM) Android 8.1 Oreo, 12MP + 5MP Dual SIM 4G Smartphone",100,1,16.0,2.0,,12MP+5MP,17.0,5.5,5.0
+85,Samsung,44000,55000,20,"Galaxy A10 6.2-Inch (2GB RAM, 32GB ROM) Android 9.0,13MP Rear Camera + 5MP Front, 4G LTE Smartphone",88,169,32.0,2.0,,13MP+5MP,18.0,6.2,4.5
+86,Leagoo Lead 7,21929,42660,49,"POWER 2  5.0""HD 2GB+16GB Android 8.1 MT6580A Quad Core Dual Camera Rear Fingerprint  Smartphone",80,3,16.0,2.0,,,21.0,5.0,4.0
+87,Infinix,52999,55000,4,"HOT 8, 6.6"" HD+ AndriodTM 9 Pie, (2GB RAM, 32GB ROM) (13+2MP/Rear & 8MP/Front), 5000mAh 4G LTE+ Free Bluetooth",97,6,32.0,2.0,5000.0,2MP+8MP,10.0,6.6,5.0
+88,Cubot,70550,104670,33,"X20 Pro, 4G, 6.3 Inch (6GB + 128GB ROM) Android 9.0, 12.0MP + 20.0MP + 8.0MP Rear Camera - Blue",100,1,128.0,6.0,,12.0MP+20.0MP+8.0MP,40.0,6.3,5.0
+89,Nokia,36100,54990,34,"Nokia 5.1 5.5"" Full-HD+ 3GB RAM 32GB ROM 16MP+8MP Smartphone Dual Sim -Blue",100,3,32.0,3.0,,16MP+8MP,24.0,5.5,5.0
+90,Infinix,60590,70000,13,"HOT 8(X650B) 6.6"" HD+ (32GB ROM, 2GB RAM) (13MP + 2MP + QVGA) + 8MP Front Camera, 5000mAh Battery - Purple",93,25,32.0,2.0,5000.0,13MP+2MP+8MP,23.0,6.6,5.0
+91,Oukitel,29990,61500,51,"C16 Pro 5.71-inch (3GB RAM 32GB ROM), Android 9.0 Waterdrop 2600mAh 4G Smartphone",90,2,32.0,3.0,2600.0,,21.0,5.71,4.5
+92,Tecno,99900,99900,0,"Phantom 9 6.4-Inch FHD (6GB,128GB ROM) Android 9.0 Pie (16MP+8MP+2MP) + 32MP 4G Smartphone - Lapland Aurora",80,1,128.0,6.0,,16MP+8MP+2MP+32MP,58.0,6.4,4.0
+93,Samsung,68000,68000,0,Galaxy J8 32GB ROM 3GB RAM 6.0 Inches 16+ 5MP Dual Rear Camera /16MP Front Camera Dual SIM - Black,87,19,32.0,3.0,,5MP+16MP,21.0,6.0,4.5
+94,UMIDIGI,51985,103970,50,"A5 Pro 6.3' FHD+ Waterdrop Screen (4GB, 32GB ROM) Android 9.0 16MP Triple Camera Octa Core 4G Smartphone (Global Band)",92,5,32.0,4.0,,16MP,16.0,6.3,5.0
+95,Infinix,100000,100000,0,"ZERO 5 (X603) 5.98 Inch 6GB/64GB Android 7.0 Nougat, 12MP + 13MP Dual,+ 16MP Selfie Camera Dual Sim 4G LTE Gold",100,4,64.0,6.0,,12MP+13MP+16MP,41.0,5.98,5.0
+97,Gionee,51351,97296,47,M7 Power 6 Inch 4GB RAM 64GB ROM 13MP+8MP Hybrid Dual SIM Android 7.1 4G LTE Smartphone 5000mAh,100,1,64.0,4.0,5000.0,13MP+8MP,21.0,6.0,5.0
+98,Huawei,28499,40700,30,Honor 5C 3GB RAM 32GB ROM 90% New Smartphone Android 6.0 Dual SIM 4G 12MP+8MP-Silver,80,1,32.0,3.0,,12MP+8MP,20.0,6.0,4.0
+99,XIAOMI,27499,42299,35,Redmi Note 3 Used 3GB RAM+32GB ROM 4G LTE 90% New Used Smartphone 5.5 Inch Screen Face Detection-Grey,80,1,32.0,3.0,,,21.0,5.5,4.0
+100,Oukitel,43699,53220,18,C17 Pro 6.35” 4G 4GB RAM 64GB ROM Triple Rear Cameras EU Gradient,79,56,64.0,4.0,,,21.0,6.0,4.0
+101,Gionee,63810,127620,50,M7 Power ，6 Inch HD 5000mAh 4GB RAM 64GB ROM 13MP+8MP Hybrid Dual SIM Android 7.1 4G LTE Smartphone,80,24,64.0,4.0,5000.0,13MP+8MP,21.0,6.0,4.0
+102,Letv,33895,67790,50,Letv LeEco Le 2 X526 5.5 Inch Quick Charge 3GB 64GB MSM8976 Snapdragon 652 1.8GHz Octa Core 4G Smartphone-GOLD,76,23,64.0,3.0,,,21.0,5.5,4.0
+103,Infinix,50990,70000,27,"HOT 8, 6.6 HD,Android 9, 32gb/2gb Ram,8MP,+Tripple Rear Camera,13MP+2MP,4G LTE,5000 Mah,Face Unlock, Fingerprint-cyan",84,17,32.0,2.0,5000.0,8MP+13MP+2MP,23.0,6.0,4.5
+104,Infinix,66000,70000,6,"HOT 8 (X650D) 6.6 Inch HD+, 3GB RAM + 32GB ROM, 5000mAh, Android 9.0, 13 MP Triple, 4G,Face ID & Fingerprint - Black",100,1,32.0,3.0,5000.0,,21.0,6.6,5.0
+105,Homtom,21999,39999,45,S17 Android 8.1 Smartphone Quad Core 5.5inch Fingerprint Face Unlock 2G RAM 16G ROM 13MP+8MP Mobile Phone - GRAY,80,2,16.0,2.0,,13MP+8MP,21.0,5.5,4.0
+106,Letv,37500,85100,56,Le Pro 3 X651 5.5 Inch AI Dual Rear Camera 4GB RAM 32GB ROM Helio X27 Deca Core 4G Smartphone,97,6,32.0,4.0,,,21.0,5.5,5.0
+107,Gionee,56000,219999,75,"M7 Power (4GB, 64GB ROM) 5000mAh, 13MP+8MP, Android 7.1, Dual Sim 4G LTE - Blue",60,2,64.0,4.0,5000.0,13MP+8MP,21.0,6.0,3.0
+108,Letv,33990,61330,45,LeEco Le 2 X526 5.5 Inch Quick Charge 3GB 64GB Snapdragon 652 1.8GHz Octa Core 4G Smartphone-PINK,87,13,64.0,3.0,,,21.0,5.5,4.5
+109,Gionee,29800,97296,69,S10C 5.2 Inch HD 4GB RAM 32GB ROM 16MP+13MP Hybrid Dual SIM 4G LTE Smartphone 3100mA-Gold,77,75,32.0,4.0,,16MP+13MP,29.0,5.2,4.0
+110,Nokia,29000,39000,26,"2.1(TA-1080DS) - 5.5"" Hd Display - 8gb Rom + 1gb Ram - 8mp + 5mp Camera - Dual Speakers - 4000mah Battery - Android 8.1 Oreo -blue Copper",92,38,8.0,1.0,4000.0,8mp+5mp,13.0,5.5,5.0
+111,Samsung,125000,125000,0,"Galaxy A9 (2018) 6.3-Inch SAmoled (6GB, 128GB ROM),Android 8.0 Oreo, Quad Rear Cameras (24MP + 5MP + 10MP + 8MP) + 24MP ,4G LTE Dual SIM Smartphone - Black",88,11,128.0,6.0,,24MP+5MP+10MP+8MP+24MP,71.0,6.3,4.5
+112,Itel,31490,35000,10,"P33 PLUS 6.0"", 5000mAh Battery, Android 8.1, (16GB ROM, 1GB), Dual Rear Camera, Fingerprint + FREE 32GB CARD & CASE- Gold",86,117,16.0,1.0,5000.0,,21.0,6.0,4.5
+113,Tecno,23000,30000,23,"F1 5-Inch (1GB, 8GB ROM) Android 8 Oreo (Go Edition), 5MP + 2MP Dual SIM 3G Smartphone - Gold",87,3,8.0,1.0,,5MP+2MP,7.0,5.0,4.5
+114,Nokia,46000,53000,13,"4.2, 5.71-nches LCD (32GB ROM,3RAM) Android 9.0, (13MP+2MP)+ 8MP 3000mAh 4G LTE Smartphone - Black",89,9,32.0,4.0,3000.0,13MP+2MP+8MP,23.0,5.71,4.5
+115,Tecno,22000,22000,0,"F1 5-Inch (1GB, 8GB ROM) Android 8.1 Go Edition), 5MP + 2MP Champagne Gold",80,2,8.0,1.0,,5MP+2MP,7.0,5.0,4.0
+116,XIAOMI,83500,83500,0,"Redmi Note 8 6.3-Inch FHD (4GB RAM, 64GB ROM) Android 9.0 (48MP + 8MP + 2MP + 2MP) + 13MP 4G - Moonlight White",80,1,64.0,4.0,,48MP+8MP+2MP+2MP+13MP,73.0,6.3,4.0
+117,Itel,21244,24000,11,"A32F 5"" Screen, Android 8.1, 8GB ROM + 1GB RAM, 5MP + 2MP Camera (+ Front Flash), Dual SIM Smartphone - Gold + Free Case",77,112,8.0,1.0,,5MP+2MP,7.0,5.0,4.0
+118,Samsung,29900,34990,15,"Galaxy A2 Core 5"" 1GB RAM 16GB ROM 5MP + 5MP Camera Dual Sim 2600Mah  - Dark Gray",85,17,16.0,1.0,2600.0,5MP+5MP,10.0,5.0,4.5
+119,Infinix,49899,59500,16,HOT 8 - ( 32GB ROM + 2GB RAM ) 4G LTE Smartphone - Quetzal Cyan,88,42,32.0,2.0,,,21.0,6.0,4.5
+120,Fero,39500,39500,0,"Royale Y2 LITE 5.5-Inch (2GB, 16GB ROM) Android 7.0 Nougat, 13MP + 13MP Dual SIM 3G Smartphone - Gold",90,2,16.0,2.0,,13MP+13MP,26.0,5.5,4.5
+121,Tecno,61990,65000,5,"Pouvoir 3 Plus, 6.35"" Amoled (64GB ROM+ 4GB RAM) , (13MP + 8MP + 2MP)+13MP FF, 6000mAh, 4G LTE,  - Midnight Black.",80,3,64.0,4.0,6000.0,13MP+8MP+2MP+13MP,36.0,6.35,4.0
+122,Nokia,10800,19000,43,C5-00 3MP Bar Style 3G WCDMA Dual 3.15MP Bluetooth Camera Long Stand-by,74,3,32.0,4.0,,3MP+3.15MP,21.0,6.0,4.0
+123,Itel,21000,23000,9,"A33 5.0"" Screen, Android 8.1, 16GB ROM + 1GB ROM, 2PCS 2200mAh Battery, Fingerprint, 5+2MP Camera - Black + FREE CASE",87,3,16.0,1.0,2200.0,2MP,2.0,5.0,4.5
+124,Samsung,23990,100000,76,Galaxy S4 I9507V 4G Smartphone 5.0'' 2600mAh FHD 13MP+2MP 2GB+16GB Mobile Phone-White,76,67,16.0,2.0,2600.0,13MP+2MP,15.0,5.0,4.0
+125,Itel,19900,19900,0,"A16 Plus 5.0"" Screen Android 8.1 Go Edition, 1GB RAM + 8GB ROM, 5MP+2MP, 2050mAh Dual SIM 3G - Black With Free Case",100,1,8.0,1.0,2050.0,5MP+2MP,7.0,5.0,5.0
+126,Motorola,20990,79000,73,MOTO E3 Power XT1706 Smartphone 5'' HD 2GB/16GB  Quad-cord Dual SIM  3500mAh 4G LTE Mobile Phone,89,5,16.0,2.0,3500.0,,21.0,5.0,4.5
+127,Itel,18000,19000,5,"A16 5-inch (512MB +8GB ROM) Android 8.1, 5MP + 2MP 2050mah Dual SIM 3G Smartphone - CHAMPAGNE GOLD",60,1,32.0,8.0,2050.0,5MP+2MP,7.0,5.0,3.0
+128,Samsung,46990,86990,46,Galaxy C5 C5000 4G LTE Smartphone Super AMOLED 5.2 Inch Snapdragon 617 Octa Core 16MP Camera Cell Phone- Gold,100,1,32.0,4.0,,16MP,16.0,5.2,5.0
+129,Itel,29600,30000,1,"P33 Plus 6.0"" Android 8.1, 5000mAh, 16GB+1GB RAM, Dual Rear Camera Fingerprint & Face Unlock - Champagne Gold",85,191,16.0,1.0,5000.0,,21.0,6.0,4.5
+130,LG,29999,199999,85,Smart Phone， LG G4 4G LTE H815 Mobile Phone Hexa Core 5.5 Inch 16.0MP Camera 3GB+32GB-Gold,80,1,32.0,3.0,,16.0MP,16.0,5.5,4.0
+131,Samsung,64900,94000,31,Galaxy S7 Smartphone Straight Screen 5.1'' 32GB ROM Quad Core 4G LTE Fingerprint -Silver,100,1,32.0,4.0,,,21.0,5.1,5.0
+132,Sony,52900,95834,45,"Z5 Premium E6853 5.5"" Single SIM 3GB+32GB Octa Core 23.0MP 4G Smartphone(Silver)",60,1,32.0,3.0,,23.0MP,23.0,5.5,3.0
+133,Nokia,34130,55490,38,3.1 5.2 Inch HD 3GB RAM 32GB ROM 13MP + 8MP Android 8.0  4G LTE Smartphone 2990mAh Dual Sim- White,93,8,32.0,3.0,2990.0,13MP+8MP,21.0,5.2,5.0
+134,Elite,22670,45340,50,"SENSE ,Android 8.1.0 (Upgraded) 13MP(R)+8MP(F) Dual Sim 2+16GB , 4G Smartphone-Gold",67,13,16.0,2.0,,13MP+8MP,21.0,6.0,3.5
+135,Tecno,75000,75000,0,"Camon 12 Pro CC9 6GB RAM 64GB ROM Android 9 Triple Camera ,16MP,8MP,2MP Rear,32mp/2.0 Selfie Camera",100,5,64.0,6.0,,16MP+8MP+2MP+32mp,58.0,6.0,5.0
+136,Nokia,0,19000,58,C1 C1-01 GSM 2G FM Bluetooth Radio High Quality Oriiginal CellPhone-- Black,60,1,32.0,4.0,,,21.0,6.0,3.0
+137,Tecno,59970,75000,20,"Pouvoir 3 Plus (LB8a), 6.35"", (64GB ROM+ 4GB RAM), Android 9, (13MP + 8MP + 2MP)+13MP, 6000mAh 4G LTE,- Midnight Black",94,9,64.0,4.0,6000.0,13MP+8MP+2MP+13MP,36.0,6.35,5.0
+138,Gionee,42210,76990,45,"S11 Lite 5.7 Inch HD (4GB,64GB ROM) Android 7.1 13MP + 16MP, Hybrid Dual SIM 4G LTE Fingerprint ID Smartphone - Black",97,13,64.0,4.0,,13MP+16MP,29.0,5.7,5.0
+139,Tecno,28500,28500,0,"POP 2F(B1F) - 5.5"" TOUCHSCREEN -16GB ROM + 1GB RAM -8MP + 5MP-FACE UNLOCK/FINGERPRINT-",94,3,16.0,1.0,,8MP+5MP,13.0,5.5,5.0
+140,Oppo,38500,88500,56,OPPO A57 5.2 Inch 3GB 32GB (Expandable Up To 256GB) Android 6.0 Qualcomm Octa - Pink,100,1,32.0,3.0,,,21.0,5.2,5.0
+141,Huawei,51900,55000,6,"Y6 Prime 2019 6.09-Inch HD+ Dewdrop (2GB,32GB ROM) Android 9.0 Pie, 13MP + 8MP Dual SIM 4G 3020mAh Smartphone - Midnight Black",88,87,32.0,2.0,3020.0,13MP+8MP,21.0,6.09,4.5
+142,Tecno,26000,28000,7,"POP 2F ( B1F) -5.5""16GB ROM, 1GB RAM,8MP Front Camera +5MP Back Camera, Battery 2400mAh,Fingerprint & Face Unlock",87,243,16.0,1.0,2400.0,8MP+5MP,13.0,5.5,4.5
+143,Letv,34155,68310,50,LeEco Le 2 X520 5.5 Inch 3000mAh Fast Charging 3GB RAM 32GB ROM -PINK,90,11,32.0,3.0,3000.0,,21.0,5.5,4.5
+144,Nomu,35999,42999,16,"S10 PRO 4G 5.0""inch (3GB RAM 32GB ROM) Android 7.0  8.0MP Rear Camera 5000mAh Battery - BLACK",100,1,32.0,3.0,5000.0,8.0MP,8.0,5.0,5.0
+145,Cubot,24880,55080,55,J5 5.5-Inch (2GB+16GB) Quad Core Android 9.0 Pie 5MP+8MP Smartphone,92,18,16.0,2.0,,5MP+8MP,13.0,5.5,5.0
+146,Infinix,42000,42000,0,"HOT 7 (X624B) 32GB+2GB, 6.2"", 3G, 4000 MAh, Dual SIM, Fingerprint, 13MP + 8MP - Champagne Gold",87,221,32.0,2.0,4000.0,13MP+8MP,21.0,6.2,4.5
+147,Nokia,500,0,28,2700c 2700 Classic Mobile Phone Camera Vedio Bluetooth MP4,74,3,32.0,4.0,,,21.0,6.0,4.0
+148,Bontel,17500,17500,0,"E11 5-Inch (1GB,8GB ROM) Android 7.0 Nougat, 13MP + 8MP 4000mAh 3G Smartphone - Black",74,138,8.0,1.0,4000.0,13MP+8MP,21.0,5.0,4.0
+149,Nokia,800,0,24,2700/c Camera Vedio Bluetooth GSM 2MP FM MP3 Mobile Phone,20,1,32.0,4.0,,2MP,2.0,6.0,1.0
+150,Infinix,66900,75000,11,"HOT 8 6.52"" HD+ (64GB ROM,4GB RAM) (13MP + 2MP + QVGA) + 8MP Front Camera 5000mAh-Midnight Black",100,1,64.0,4.0,5000.0,13MP+2MP+8MP,23.0,6.52,5.0
+151,Blackview,39999,39999,0,Blackview A60 Smartphone 4080mAh Battery 19:9 6.1 Inch Dual Camera 1GB RAM 16GB ROM Mobile Phone 13MP+5MP Camera,83,19,16.0,1.0,4080.0,13MP+5MP,18.0,6.1,4.5
+152,Cubot,55999,89999,38,Power 5.99-Inch (6GB+128GB) Octa-core 6000mAh 13MP+20MP Smartphone -Black,80,2,128.0,6.0,6000.0,13MP+20MP,33.0,5.99,4.0
+153,Infinix,65072,75000,13,"HOT 8(X650D) 6.6"" HD+ (32GB ROM, 3GB RAM) (13MP + 2MP + QVGA) + 8MP Front Camera, 5000mAh Battery - QUETZAL CYAN",100,1,32.0,3.0,5000.0,13MP+2MP+8MP,23.0,6.6,5.0
+154,Infinix,65072,75000,13,"HOT 8(X650D) 6.6"" HD+ (32GB ROM, 3GB RAM) (13MP + 2MP + QVGA) + 8MP Front Camera, 5000mAh Battery - COSMIC PURPLE",89,9,32.0,3.0,5000.0,13MP+2MP+8MP,23.0,6.6,4.5
+155,Blackview,49999,49999,0,"A10 5.0"" HD 18:9 2GB+16GB Android 7.0 Quad Core Fingerprint ID 2800mAh 3G Ultra-Slim Smartphone",100,1,16.0,2.0,2800.0,,21.0,5.0,5.0
+156,Samsung,79999,85999,7,"Galaxy C9 Pro 4G Phablet 6"" Inch (6GB RAM 64GB ROM), Android 6.0 4000mAh Battery - Pink",98,7,64.0,6.0,4000.0,,21.0,6.0,5.0
+157,Unicorn,59000,59000,0,Smartphone Android 4GB RAM+32GB ROM Dual Sim 5.8 Inch/5.0 Inch MTK6580 Octa Core 3G - Gold,60,1,32.0,4.0,,,21.0,5.8,3.0
+158,Gionee,78000,78000,0,S10 LITE 5.2-Inch 4G RAM 32G ROM Qualcomm Snapdragon 13MP+16MP Camera 4G Smartphone,70,62,32.0,4.0,,13MP+16MP,29.0,5.2,3.5
+159,Oukitel,59999,59999,0,C17 Pro 6.35'' 19:9 4GB RAM 64GB ROM MT6763 Smartphone 13MP Fingerprint Octa Core Android 9.0 4G Mobile Phone 3900mAh,20,1,64.0,4.0,3900.0,13MP,13.0,6.35,1.0
+160,UMIDIGI,60860,121720,50,UMIDIGI Power Global Bands 6.3 Inch FHD+ Waterdrop Display NFC 5150mAh 4G+64G Smartphone(EU Version)-Black,50,2,64.0,4.0,5150.0,,21.0,6.3,2.5
+161,Homtom,57000,57000,0,S8 Smartphone 5.7'' Android 7.0 4+64GB Fingerprint GPS Fast Charge,45,4,64.0,4.0,,,21.0,5.7,2.5
+162,Infinix,60590,70000,13,"HOT 8(X650B) 6.6"" HD+ (32GB ROM, 2GB RAM) (13MP + 2MP + QVGA) + 8MP Front Camera 5000mAh - Quetzal Cyan",88,24,32.0,2.0,5000.0,13MP+2MP+8MP,23.0,6.6,4.5
+163,Blackview,33920,49014,31,"A60 Pro 3GB+16GB 6.088"" Waterdrop Screen Android 9.0 4G Dual SIM Smartphone - Blue",100,1,16.0,3.0,,,21.0,6.09,5.0
+164,Cubot,54999,89999,39,Power 5.99-Inch (6GB+128GB) Octa-core 6000mAh 13MP+20MP Smartphone -Blue,90,4,128.0,6.0,6000.0,13MP+20MP,33.0,5.99,4.5
+165,Blackview,39999,39999,0,Blackview A60 Smartphone 4080mAh Battery 19:9 6.1 Inch Dual Camera 1GB RAM 16GB ROM Mobile Phone 13MP+5MP Camera,83,9,16.0,1.0,4080.0,13MP+5MP,18.0,6.1,4.5
+166,Nokia,89999,89999,0,X5 3GB+32GB ROM 5.86-inch HD 13MP+5MP Back Camera Dual Card 4G Smartphone,89,15,32.0,3.0,,13MP+5MP,18.0,5.86,4.5
+167,Jodom,38999,38999,0,N5 PRO 6.3 Inch HD Water Drop Screen 1G+16G MTK6580 Dual SIM Dual Standby Mobile Phone,100,1,16.0,1.0,,,21.0,6.3,5.0
+168,Gionee,38000,45000,16,"S11 Lite 5.7-Inch (4GB,32GB ROM) Android 7.1 Nougat (13MP+2MP)+16MP, Hybrid Dual SIM 4G Fingerprint ID Smartphone- Black",91,11,32.0,4.0,,13MP+2MP+16MP,31.0,5.7,5.0
+169,LG,29999,199999,85,Smart Phone， LG G4 4G LTE H815 Mobile Phone Hexa Core 5.5 Inch 16.0MP Camera 3GB+32GB-Brown,40,2,32.0,3.0,,16.0MP,16.0,5.5,2.0
+170,Huawei,47500,50900,7,"Y5 2019 5.71-Inch (2GB, 32GB ROM) Android 9, 13MP + 5MP Dual SIM 4G Smartphone - Amber Brown",87,84,32.0,2.0,,13MP+5MP,18.0,5.71,4.5
+171,AfriOne,61000,70000,13,Afrione Cygnus X 20mp Ai Selfie & Rear Camera – 6.53″ Waterdrop Full Screen Display – 4GB/64GB,60,5,64.0,4.0,,20mp,20.0,6.0,3.0
+172,Oppo,77967,78000,1,"Realme 5i 4GB+64GB 6.52"" 12MP Triple Camera Snapdragon 665 Dual SIM 5000mAh-Green",80,1,64.0,4.0,5000.0,12MP,12.0,6.52,4.0
+173,Tecno,28000,28000,0,"WX3 Lite 5-Inch (1GB, 8GB ROM) Android 7.0 Nougat, 5MP + 5MP Dual SIM 4G Smartphone - Gold",83,57,8.0,1.0,,5MP+5MP,10.0,5.0,4.5
+174,Fero,49000,49000,0,Royale J1-Gold,80,1,32.0,4.0,,,21.0,6.0,4.0
+175,Nokia,129990,129990,0,"7.2, 6.3-Inch LCD (6GB RAM, 128GB ROM) Android 9.0, (48MP + 8MP + 5MP)+20MP, Dual SIM 4G Smartphone - Ice",40,1,128.0,6.0,,48MP+8MP+5MP+20MP,81.0,6.3,2.0
+176,LG,29999,199999,85,Smart Phone， LG G4 4G LTE H815 Mobile Phone Hexa Core 5.5 Inch 16.0MP Camera 3GB+32GB-leather Black,80,1,32.0,3.0,,16.0MP,16.0,5.5,4.0
+177,Motorola,78000,78000,0,"Moto G5S XT1799 5.2-inch (4GB, 64GB ROM) 3000mAh, 16MP+16MP, Android 7.1, 4G LTE Smartphone - Black",95,4,64.0,4.0,3000.0,16MP+16MP,32.0,5.2,5.0
+178,LG,79900,79900,0,"G6 5.7"" (4GB , 32GB) 4G Single SIM , Android 7 , Dual13MP - Black",87,3,32.0,4.0,,13MP,13.0,5.7,4.5
+179,LG,69900,69900,0,"G6 5.7"" (4GB , 32GB) 4G Single SIM ,Android 7 , 13MP - Black",100,2,32.0,4.0,,13MP,13.0,5.7,5.0
+180,Swiss,16500,19500,15,"SD 510- Dual Sim- 8gb Rom, 1gb Ram, 3g, 1.3GHz Quad Core- Black",80,3,8.0,1.0,,,21.0,6.0,4.0
+181,Gionee,99900,99900,0,"M7P (4GB, 64GB ROM) 5000mAh, 13MP Android 7.1 Dual Sim 4G  - Gold",80,3,64.0,4.0,5000.0,13MP,13.0,6.0,4.0
+182,Oukitel,24099,38080,37,C8 3G Phablet 5.5 Inch Android 7.0 Quad Core 2GB RAM 16GB ROM 8.0MP Rear Camera - GOLDEN,87,3,16.0,2.0,,8.0MP,8.0,5.5,4.5
+183,Huawei,128395,155000,17,"Honor 8X Max 6GB+128GB 7.12""Dual Camera Snapdragon 660 Octa Core Fingerprint Unlock Dual SIM 18W QC 5000mAh-Black",80,1,128.0,6.0,5000.0,,21.0,7.12,4.0
+184,Itel,31590,35000,10,"P33 Plus 6.0"" Android 8.1, 5000mAh, 16GB+1GB RAM, Dual Rear Camera, Fingerprint & Face Unlock -Gradation Blue +32GB CARD",90,130,16.0,1.0,5000.0,,21.0,6.0,4.5
+185,Lenovo,49000,49000,0,K5 Play 5.7 Inch IPS 3GB RAM 32GB ROM 13MP + 8MP Android 8.0 Dual Sim 4G LTE Smartphone 3000mAh,60,2,32.0,3.0,3000.0,13MP+8MP,21.0,5.7,3.0
+186,Blackview,102900,155143,34,"Blackview BV9600, 4GB+64GB, IP68/IP69K Waterproof Dustproof Shockproof, Dual Back Cameras, 5580mAh Battery, Face ID & Side-mounted Fingerprint Identification, 6.21 Inch Android 9 Helio P70 (MTK6771T) Octa Core Up To 2.1GHz",90,2,64.0,4.0,5580.0,,21.0,6.21,4.5
+187,XIAOMI,140000,140000,0,"(Mi) Redmi Note 7 6.3-Inch FHD (3GB, 32GB ROM) Android 9.0 (Pie) (48MP + 5MP) + 13MP 4G Face & Fingerprint ID Smartphone - Black",98,7,32.0,3.0,,48MP+5MP+13MP,66.0,6.3,5.0
+188,XIAOMI,45990,95990,52,Redmi 8 4GB RAM 64GB ROM Mobile Phone Snapdragon 439 Octa Core 12MP Dual Camera 5000mAh Battery,100,1,64.0,4.0,5000.0,12MP,12.0,6.0,5.0
+189,Blackview,75380,114114,34,"Blackview BV6800 Pro Rugged Phone, 4GB+64GB,Android 8.0 MTK6750T Octa Core Up To 1.5GHz, NFC, Wireless Charging ",95,4,64.0,4.0,,,21.0,6.0,5.0
+190,Infinix,110500,110500,0,"Infinix ZERO 6(X620B) - 6.2"" FHD+ -64GB ROM + 6GB RAM -12MP/24MP + 20MP -AI ASSISTANT",90,2,64.0,6.0,,12MP+24MP+20MP,56.0,6.2,4.5
+191,Fero,28000,28000,0,"Power 2 5.0-Inch IPS (1GB RAM, 8GB ROM) Android 6.0 Marshmallow, 5MP + 2MP Smartphone - Space Grey",100,1,8.0,1.0,,5MP+2MP,7.0,5.0,5.0
+192,Gome,46000,46000,0,U7 5.99 Inch FHD 4GB RAM 64GB ROM Android 7.1 Iris Recognition 13MP + 13MP Dual Sim 4G Smartphone,74,3,64.0,4.0,,13MP+13MP,26.0,5.99,4.0
+193,Doogee,68760,98229,30,"S60 Lite 4GB+32GB 5580mAh Battery 5.2"" Android 7.0 4G NFC OTA Smartphone - Silver",100,1,32.0,4.0,5580.0,,21.0,5.2,5.0
+194,Gome,33790,44990,25,U7 5.99 Inch 4GB RAM 64GB ROM Android 7.1 Octa Core NFC 3050mAh Iris Recognition 4G LTE Smartphone,90,2,64.0,4.0,3050.0,,21.0,5.99,4.5
+195,Doogee,69000,95100,27,S60 Lite Triple Proofing Phone (4GB RAM + 32GB ROM) 5.2 Inch Android 7.0 4G Smartphone - Sliver,100,1,32.0,4.0,,,21.0,5.2,5.0
+196,Huawei,128395,155000,17,"Honor 8X Max 6GB+128GB 7.12""Dual Camera Snapdragon 660 Octa Core Fingerprint Unlock Dual SIM 18W QC 5000mAh-Blue",75,4,128.0,6.0,5000.0,,21.0,7.12,4.0
+197,Huawei,129229,162380,20,"Y9 (2019) 6GB+128GB 6.5"" 16MP+2MP AI Dual Camera Kirin 710 Octa Core Fingerprint Unlock Dual SIM 4000mAh-Black",100,1,128.0,6.0,4000.0,16MP+2MP,18.0,6.5,5.0
+198,Blackview,154000,220000,30,"BV9700 Pro 6GB+128GB 5.84"" Android 9.0 NFC Wireless Charge Smartphone - Tarnish",100,2,128.0,6.0,,,21.0,5.84,5.0
+199,Huawei,75000,75000,0,"Y5 Lite 5.45-Inch HD+ (1GB, 16GB ROM) Android 8.1 Oreo Go, 8MP + 5MP Dual SIM 4G Smartphone - Blue",85,91,16.0,1.0,,8MP+5MP,13.0,5.45,4.5
+200,Desire,24120,33688,28,Desire 530 Android 5.1 Flash 1GB RAM+8GB ROM 5.0 Inch Dual Standby Smartphone - Black,80,1,8.0,1.0,,,21.0,5.0,4.0
+201,Vernee,34041,48679,30,"Thor Plus, 4G, 5.5 Inch (3GB RAM + 32GB ROM) Android 7.0, Dual SIM - Black",80,1,32.0,3.0,,,21.0,5.5,4.0
+202,XIAOMI,78000,95000,18,"Redmi Note 7 Dual Sim- 6.3 Inches 4GB+128GB, 48MP+5MP Rare Dual Camera, Face & Fingerprint Identification- Space Black",100,1,128.0,4.0,,48MP+5MP,53.0,6.3,5.0
+204,Gionee,99900,99900,0,M7 Power (4GB+64GB) 6.0 Inch 5000mAh Battery Android 7.1 Snapdragon Octa Core 1.4GHz 4G-LTE - Black,100,3,64.0,4.0,5000.0,,21.0,6.0,5.0
+205,Huawei,71120,101600,30,"Honor 8C, Dual 4G, 4GB+32GB, 6.26 Inch EMUI 8.2 (Android 8.1) Smartphone - Black",100,1,32.0,4.0,,,21.0,6.26,5.0
+206,Vernee,47990,99990,52,Mix 2 4G Phablet 6.0 Inch Android 7.0 6GB RAM 64GB ROM 13.0MP + 5.0MP - BLACK,80,4,64.0,6.0,,13.0MP+5.0MP,18.0,6.0,4.0
+207,Gionee,99990,99990,0,M6 5.5'HD 4G RAM+64G ROM 13MP 8MP Camera 5000mAh Battery Android OS 4G Smartphone,72,7,64.0,4.0,5000.0,13MP+8MP,21.0,5.5,4.0
+208,Oppo,145930,175116,17,Realme 3 Pro 4G Phablet 6.3 Inch Android 9.0 6GB RAM 128GB ROM 4045mAh Battery-VIOLET,100,1,128.0,6.0,4045.0,,21.0,6.3,5.0
+209,Blackview,169770,242529,30,"BV9500 Pro Rugged Phone 6GB+128GB10000mAh Battery 5.7"" Android 8.1 NFC Smartphone - Green",80,1,128.0,6.0,10000.0,,21.0,5.7,4.0
+210,Elephone,38000,96900,61,Elephone P11 3D SmartPhone 4GB 64GB Android 8.0 MTK6797T  6.0 Inch 16MP+8MP 3200mah Mobile Phone,60,1,64.0,4.0,3200.0,16MP+8MP,24.0,6.0,3.0
+211,Nokia,0,19000,63,C Series C1-02 - Black Cellular Phone Multiple Keyboards-- Black,100,1,32.0,4.0,,,21.0,6.0,5.0
+213,Infinix,52999,55000,4,"HOT 8, 6.6"" HD+ AndriodTM 9 Pie, (2GB RAM, 32GB ROM) (13+2MP/Rear & 8MP/Front), 5000mAh 4G LTE+ Free 32GB Memory Card",100,1,32.0,2.0,5000.0,2MP+8MP,10.0,6.6,5.0
+214,Tecno,26350,27500,4,"POP2 F (B1F) 5.5"" 16GB ROM,1GB RAM,8MP Front +5MP Back, Battery 2400mAh,Fingerprint & Face Unlock, Midnight Black.",90,6,16.0,1.0,2400.0,8MP+5MP,13.0,5.5,4.5
+215,Oukitel,28602,40901,30,"OUKITEL C11 Pro 4G 5.5"" 3GB RAM + 16GB ROM Android 8.1 - BLUE",80,1,16.0,3.0,,,21.0,5.5,4.0
+216,Leagoo,29999,29999,0,"M9 5.5-Inch IPS (2GB,16GB ROM) Android 7.0 Nougat (8MP + 2MP) + (5MP + 2MP) 3G Smartphone - Blue",74,194,16.0,2.0,,8MP+2MP+5MP+2MP,17.0,5.5,4.0
+217,Elephone,0,0,0, PX 16MP Pop Up Camera Mobile Phone Android 9.0 Fingerprint Smartphone 2019 New,80,1,32.0,4.0,,16MP,16.0,6.0,4.0
+218,XIAOMI,53990,53990,0,"Redmi 4A 5.0"" (2GB,16GB ROM) Android 6.0 Marshmallow, 13MP + 5MP Hybrid Dual SIM 4G - Black",94,9,16.0,2.0,,13MP+5MP,18.0,5.0,5.0
+219,Leagoo,100000,100000,0,M9 5.5 Inch 18:9 Quad Camera 2GB RAM 16GB ROM MT6580A 1.3GHz Quad Core 3G Smartphone,90,2,16.0,2.0,,,21.0,5.5,4.5
+220,Nokia,400,0,40,1682 1682c 2G GSM 900/1800 Mobilephone Classic Barphone-Blue,100,1,32.0,4.0,,,21.0,6.0,5.0
+221,Nokia,30500,60377,49,Global Version Nokia 3.1 Smartphone Android 5.2 Inch HD+ 3GB 32GB MT6750N Octa-Core 2990mAh 4G LTE Mobile Phone ,100,1,32.0,3.0,2990.0,,21.0,5.2,5.0
+222,SOYES,31900,54900,42,XS Smartphone 2GB+16GB Android 7.0 4G Wifi GPS Google Play Super Mini Pocket Mobile Phone - Dazzle,60,1,16.0,2.0,,,21.0,6.0,3.0
+223,Oukitel,106730,138749,23,K12 4G 6.3-inch 6GB RAM 64GB Dual Rear Cameras-BLACK,100,1,64.0,6.0,,,21.0,6.3,5.0
+224,Itel,38500,38500,0,"S15 Pro 6.088"" HD+, 16MP AI Selfie Camera, 2GB RAM + 32GB ROM, Android 9, 4G, Face ID & Fingerprint, 3000mAh - Purple",100,1,32.0,2.0,3000.0,16MP,16.0,6.09,5.0
+225,Gionee,44990,44990,0,"S10Lite 5.2” HD  (4GB,32GB) Android 7.1, 16MP+13MP Dual SIM 4G LTE Smartphone 3,100mAh - Black",87,6,32.0,4.0,100.0,16MP+13MP,29.0,6.0,4.5
+226,LG,89900,89900,0,"G6 5.7"" (4GB , 64GB) 4G Single SIM ,Android 7 , 13MP - Black",80,1,64.0,4.0,,13MP,13.0,5.7,4.0
+227,Infinix,49400,55000,10,"HOT 8 (X650B) 6.6"" HD+, 2GB RAM + 32GB ROM, 5000mAh, Android 9, 13MP Triple AI Camera, 4G Face ID & Fingerprint - Purple",20,1,32.0,2.0,5000.0,13MP,13.0,6.6,1.0
+228,Samsung,139352,179600,22,"Galaxy A8s 6GB+128GB 6.4"" 24MP+10MP+5MP Triple Cameras Snapdragon 710 Octa Core 4G Smartphone Dual Sim 3400mAh-Black",100,4,128.0,6.0,3400.0,24MP+10MP+5MP,39.0,6.4,5.0
+229,Oukitel,25550,35690,28,C5 Pro - 5.0 4G Android 6.0 MTK6737 Quad Core 2GB/16GB UK PLUG - Black,60,1,16.0,2.0,,,21.0,6.0,3.0
+230,Infinix,65000,109000,40,"Zero 4 (X555) 5.5-Inch IPS LCD (3GB RAM,32GB ROM) Android 6.0 Marshmallow, 16MP + 8MP Dual SIM 4G LTE Smartphone -",60,1,32.0,3.0,,16MP+8MP,24.0,5.5,3.0
+231,Blackview,149240,213200,30,"BV9600 Pro, 6GB+128GB, 6.21 Inch Android 8.1, 5580mAh Battery (16.0MP + 8.0MP) Back Camera - Black",100,1,128.0,6.0,5580.0,16.0MP+8.0MP,24.0,6.21,5.0
+232,Doogee,72790,103986,30,"S60 Lite Triple Proofing Phone 4GB+32GB 5580mAh Battery 5.2"" Android 7.0 4G NFC Smartphone - Black",80,1,32.0,4.0,5580.0,,21.0,5.2,4.0
+233,Asus,63990,63990,0,ZenFone 3 ZE552KL Mobile Phone 4GB RAM 64GB ROM Qualcomm Octa Core -White,80,1,64.0,4.0,,,21.0,6.0,4.0
+234,Gionee,24990,30000,17,"M6 Mini - 5.45' 16GB ROM, 1GB RAM, 8MP Camera, 4000 MAh Battery - Gold With 15 Months Warranty",54,3,16.0,1.0,4000.0,8MP,8.0,5.45,3.0
+235,XIAOMI,75000,80000,6,"Redmi Note 7- Dual Sim, 6.3-Inch FHD (4GB, 64GB ROM) Android 9.0 (Pie) (48MP + 5MP) + 13MP 4G - Space Black",100,1,64.0,4.0,,48MP+5MP+13MP,66.0,6.3,5.0
+236,Gionee,100000,100000,0,"S11 Lite 5.7-Inch HD 18:9 Full Screen 4GB,64GB ROM Android 7.1  Dual SIM 4G LTE Fingerprint ID Smartphone - Gold",100,1,64.0,4.0,,,21.0,5.7,5.0
+237,Huawei,32699,50299,35,Honor 7 64GB ROM 3GB RAM 90% New Smartphone 20MP+8MP Android 5.0 Dual SIM-Grey,90,2,64.0,3.0,,20MP+8MP,28.0,6.0,4.5
+238,Oukitel,137000,153216,11,K12 4G 6.3-inch Smartphone MT6765 Helio P35 2.3GHz 6GB RAM 64GB Dual Rear Cameras - Black,80,1,64.0,6.0,,,21.0,6.3,4.0
+239,Huawei,39900,59900,33,P8 4G LTE Mobile Phone Android Kirin 935 Octa Core 5.2 Inch IPS 1920X1080 3GB RAM 16GB ROM 13.0MP  - Moon Silver,100,1,16.0,3.0,,13.0MP,13.0,5.2,5.0
+240,Motorola,100000,100000,0,MOTO P30 Play Smartphone 4GB 64GB 5.86 Inch  3000mAh 4G LTE Snapdragon 625 Octa Core Fingerprint ID Mobile Phone-White,60,2,64.0,4.0,3000.0,,21.0,5.86,3.0
+241,Nokia,500,0,28,1616 Mobile Phone  LED Torch GSM 900/1800 Cheap Call 2G GSM Multilingual Language,60,1,32.0,4.0,,,21.0,6.0,3.0
+242,LG,43500,56500,23,"V20 5.7"" Inches Quad Core 4GB RAM 64GB ROM 16MP LTE Fingerprint Mobile Phone -Silver",80,1,64.0,4.0,,16MP,16.0,5.7,4.0
+243,XIAOMI,101704,102999,1,"(Xiaomi)Redmi Note 7 Pro 6GB+128GB 6.3"" 48MP+5MP 13MP AI Camera Quick Charge 4.0 Dual Sim 4000mAh",94,9,128.0,6.0,4000.0,48MP+5MP+13MP,66.0,6.3,5.0
+244,Samsung,150000,150000,0,Galaxy S7 Edge (4GB Ram 32GB Rom) Gold Platinuim,60,2,32.0,4.0,,,21.0,6.0,3.0
+245,Huawei,39900,59900,33,P8 4G LTE Mobile Phone Android Kirin 935 Octa Core 5.2 Inch IPS 1920X1080 3GB RAM 16GB ROM 13.0MP- Smoke Grey,60,1,16.0,3.0,,13.0MP,13.0,5.2,3.0
+246,Gionee,69000,219999,69,"M7 Power (4GB, 64GB ROM) 5000mAh, 13MP+8MP, Android 7.1, Dual Sim 4G LTE - Black",77,6,64.0,4.0,5000.0,13MP+8MP,21.0,6.0,4.0
+247,Hisense,19850,19850,0,Smart Android Phone U962 LED 8GB+1GB Flash/2MP Selfie Quad-core 4GHz,80,1,8.0,1.0,,2MP,2.0,6.0,4.0
+248,Itel,37500,45000,17,"S15 Pro 6.088"" HD+, 16MP AI Selfie Camera, 2GB RAM + 32GB ROM,  4G, Face ID & Fingerprint, 3000mAh - GRADATION PURPLE",80,1,32.0,2.0,3000.0,16MP,16.0,6.09,4.0
+249,LG,89000,89000,0,G6 VS988 Snapdragon 821 Dual Rear Camera 5.7'' 4GB+32GB+64GB  LTE 4G Single SIM - Blue 64GB,100,1,32.0,4.0,,,21.0,5.7,5.0
+250,Blackview,36580,52257,30,"A60 Pro 3GB+16GB 6.088"" Waterdrop Screen Android 9.0 4G Dual SIM Smartphone - Black",80,1,16.0,3.0,,,21.0,6.09,4.0
+251,Samsung,59900,96800,38,"Galaxy S6 Edge 5.1"" Curved Screen 32GB ROM 16MP Phone - Black",90,2,32.0,4.0,,16MP,16.0,5.1,4.5
+252,Leagoo,60410,84494,29,"T5 5.5-Inch FHD 2.5D MTK6750T Octa Core 1.5GHz (4GB,64GB ROM) Android 7.0 Nougat, (13MP + 5MP) + 13MP Dual Rear Cameras Fingerprint Dual SIM 4G LTE Smartphone - Gold",77,121,64.0,4.0,,13MP+5MP+13MP,31.0,5.5,4.0
+253,Lenovo,39990,67280,41,K5 Note SmartPhone Snapdragon 450 Octa-Core 4GB 64GB -Gold,80,5,64.0,4.0,,,21.0,6.0,4.0
+254,Nokia,43130,55999,23,"3.1 PLUS 3GB RAM+32GB ROM 6.0inch18:9 HD Mobile Phone,13MP+5MP,Helio P22 Octa Core Smartphone",94,6,32.0,3.0,,13MP+5MP,18.0,6.0,5.0
+255,Samsung,74500,125000,40,Galaxy S7 Edge 5.5'' QHD(4GB+32GB) 12MP+5MP 4G Smartphone-Silver,100,1,32.0,4.0,,12MP+5MP,17.0,5.5,5.0
+256,Samsung,85000,85000,0,"Galaxy A30s, 6.4-Inch (4GB RAM, 64GB ROM) Android 9.0 Pie, (25MP + 8MP + 8MP) 4G LTE Dual SIM - Prism Crush White",100,1,64.0,4.0,,25MP+8MP+8MP,41.0,6.4,5.0
+257,Samsung,170000,170000,0,"Galaxy S8 5.8-Inch QHD (4GB,64GB ROM) 12MP + 8MP 4G LTE Smartphone Dual Sim - Purple+Free Pouch",20,1,64.0,4.0,,12MP+8MP,20.0,5.8,1.0
+258,Huawei,76960,100048,23,"Honor 8X 4G Phablet 6.5 Inch (4GB RAM 64GB ROM),  Android 8.1 5000mAh  -BLACK",80,1,64.0,4.0,5000.0,,21.0,6.5,4.0
+259,Itel,30499,32500,6,"P32 5.5-Inch (1GB,16GB RAM) Dual Rear Camera (5MP + 5MP) + 5MP Dual SIM 4000mAh - Ice Blue",100,1,16.0,1.0,4000.0,5MP+5MP+5MP,15.0,5.5,5.0
+260,LG,89000,89000,0,G6 VS988 Snapdragon 821 Dual Rear Camera 5.7'' 4GB+32GB+64GB  LTE 4G Single SIM - Black 64GB,100,1,32.0,4.0,,,21.0,5.7,5.0
+261,Itel,20650,23000,10,"A33 5-Inch (16GB ROM,1GB RAM) Android 8.1 Oreo Go, 5MP + 2MP Fingerprint ID 3G Smartphone - Gradation Red",80,1,16.0,1.0,,5MP+2MP,7.0,5.0,4.0
+262,Leagoo,19900,26999,26,"KIICAA POWER 5.0 Inch (2GB,16GB ROM) Android 7.0 Nougat, 4000mAh- Champagne Gold",79,121,16.0,2.0,4000.0,,21.0,5.0,4.0
+263,Tecno,75000,75000,0,"POP 2 Power (B1P) 5.5"" Android 8.1, 4000mAh Battery, 16GB ROM+1GB RAM, 8+5MP Beauty Camera, Fingerprint, Face ID - City Blue",87,131,16.0,1.0,4000.0,5MP,5.0,5.5,4.5
+264,Doogee,158399,213550,26,"S95 Pro Rugged Phone 8GB+128GB, 6.3 Inch Android 9.0 5150mAh Battery - Black",20,1,128.0,8.0,5150.0,,21.0,6.3,1.0
+265,Samsung,295000,295000,0,"Galaxy Note 10, 6.3-Inch (8GB RAM, 256GB ROM), (12MP + 12MP + 16MP) Dual SIM - Aura Glow",80,1,256.0,8.0,,12MP+12MP+16MP,40.0,6.3,4.0
+266,Samsung,144999,144999,0,Galaxy S8 Dual Sim - 64GB ROM/4GB RAM 5.8-Inch 12MP+8MP Android 7.0 Nougat - Coral Blue,40,1,64.0,4.0,,12MP+8MP,20.0,5.8,2.0
+267,Nokia,44500,44500,0,"2.3 Screen Size 6.2"" 2GB RAM 32GB ROM 4000mAh Battery Dual Nano SIM - Cyan Green",97,6,32.0,2.0,4000.0,,21.0,6.2,5.0
+268,Nokia,90000,90000,0,"Nokia 6.2, 6.3-Inch FHD+ (4GB RAM, 64GB ROM) Android 9.0, (16MP + 8MP + 5MP) + 8MP, Dual SIM 4G Smartphone - Ice",100,1,64.0,4.0,,16MP+8MP+5MP+8MP,37.0,6.3,5.0
+269,Samsung,237900,250000,5,"Galaxy Note 9 - (6GB+128GB)-6.4""- Android 8.1, (12MP+12MP), S-Pen With Remote Control, Dual Sim, LTE",100,1,128.0,6.0,,12MP+12MP,24.0,6.4,5.0
+270,Letv,33629,47082,29,Le X526 4G Phablet 5.5 Inch Android 6.0 Octa Core 3GB RAM 64GB ROM -Gold,86,11,64.0,3.0,,,21.0,5.5,4.5
+271,Gionee,99000,99000,0,"S10 5.5” FHD  (6GB,64GB) Android 7.1, 20MP+16MP Dual SIM 4G LTE Smartphone 3,450mAh - Green",20,1,64.0,6.0,450.0,20MP+16MP,36.0,6.0,1.0
+272,Samsung,99999,180000,44,Galaxy S8 Edge 5.8'' QHD(4GB+64GB) 12MP+8MP Smartphone-Silver,78,8,64.0,4.0,,12MP+8MP,20.0,5.8,4.0
+273,LG,51000,51000,0,"G4 H815 Cellphone 5.5"" Hexa Core 3GB+32GB Android 16.0MP 4G LTE  Single SIM - Black",80,1,32.0,3.0,,16.0MP,16.0,5.5,4.0
+274,Doogee,70000,100000,30,S60 Lite Triple Proofing Phone (4GB RAM + 32GB ROM) 5.2 Inch Android 7.0 4G Smartphone - Sliver,100,1,32.0,4.0,,,21.0,5.2,5.0
+275,Huawei,250000,250000,0,"Y9 (2019) 6.5"" (64GB+ 4GB Ram) Android 8.1 Oreo, (16MP + 2MP)+(13MP + 2MP) 4000 MAh -Midnight Black",94,96,64.0,4.0,4000.0,16MP+2MP+13MP+2MP,33.0,6.5,5.0
+276,Samsung,130000,140000,7,"Samsung Galaxy S8 5.8-Inch QHD (4GB,64GB ROM) 12MP + 8MP 4G LTE Smartphone ( 2 Sim ) DUAL Sim - Royal Blue",100,1,64.0,4.0,,12MP+8MP,20.0,5.8,5.0
+277,Samsung,300000,370000,19,"Galaxy Note9 (6.4"") 128GB/6GB ROM Android 8.1 Nougat.12MP Camera Midnight Black",100,1,128.0,6.0,,12MP,12.0,6.4,5.0
+278,Gionee,48000,50000,4,"S8s Black - 5.86' (32GB ROM, 3GB), 13MP Camera, 4G LTE Smartphone With 15 Months Warranty-  Black",78,68,32.0,3.0,,13MP,13.0,5.86,4.0
+279,Samsung,270000,280000,4,"Galaxy S10 6.1-Inch AMOLED (8GB, 128GB ROM) Android 9.0 Pie, 12MP + 12MP + 16MP Dual SIM 4G Fingerprint - Prism Green",100,1,128.0,8.0,,12MP+12MP+16MP,40.0,6.1,5.0
+280,Nokia,0,19000,53,215 Lumia 1520 Mobile Cellphone Dual SIM Card Quad Core 2GB RAM 32GB ROM 2.0MP GPS  Phone,20,1,32.0,2.0,,2.0MP,2.0,6.0,1.0
+281,Lenovo,54999,58400,6,K5 Pro 6GB RAM+64GB ROM Dual SIM K5Pro 4G SmartPhone_Black,80,1,64.0,6.0,,,21.0,6.0,4.0
+282,Honor,39590,86000,54,9I 5.84'' 4GB 64GB Android 8.0 Cellphone Kirin 659 Octa Core Dual Rear Cameras 13.0MP+20.MP Fingerprint,100,1,64.0,4.0,,13.0MP+20.MP,33.0,5.84,5.0
+283,XIAOMI,86589,89900,4,"Xiaomi Redmi Note 8 4GB+64GB 6.3"" 48MP Quad Camera Snapdragon 665 Octa Core Dual SIM 18W QC 4000mAh Global Rom-Black",100,2,64.0,4.0,4000.0,48MP,48.0,6.3,5.0
+284,Gionee,89990,89990,0,S11 Lite 5.7-inch 4GB+32GB Full-Screen Dual-Camera Qualcomm 8-Core 4G Smartphone- Gold,100,1,32.0,4.0,,,21.0,5.7,5.0
+285,Samsung,350000,400000,13,"Galaxy S10 Plus (S10+) 6.4-Inch AMOLED (8GB, 128GB ROM) Android 9.0 Pie, (12MP + 12MP + 16MP)+(10MP+8MP) Dual SIM 4G Smartphone - Prism Black",89,212,128.0,8.0,,12MP+12MP+16MP+10MP+8MP,58.0,6.4,4.5
+286,XIAOMI,23499,36699,36,Redmi Note 3 Used 2GB RAM+16GB ROM 4G LTE 90% New Used Smartphone 5.5 Inch Screen Face Detection-Grey,80,1,16.0,2.0,,,21.0,5.5,4.0
+287,Lenovo,31050,85000,63,K5 Play 3GB 32GB Face ID 5.7'' 18:9 Screen 3000mAh 13MP+2MP Android Mobile Phone,80,1,32.0,3.0,3000.0,13MP+2MP,15.0,5.7,4.0
+288,Blackview,163680,233829,30,"BV9500 Pro Rugged Phone 6GB+128GB 10000mAh Battery 5.7"" Android 8.1 Smartphone - Black",96,5,128.0,6.0,10000.0,,21.0,5.7,5.0
+290,Gionee,76999,76999,0,"M7 Power (4GB, 64GB ROM) 5000mAh, 13MP+8MP, OTG Android 7.1 Dual Sim 4G LTE - Black",80,1,64.0,4.0,5000.0,13MP+8MP,21.0,6.0,4.0
+291,XIAOMI,59900,89990,33, Redmi Note 7 6GB 64GB Smartphone Snapdragon 660 Octa Core 4000mAh 48+13MP,80,1,64.0,6.0,4000.0,13MP,13.0,6.0,4.0
+292,Letv,110700,154900,29,LeTv LeEco Cool S1 5.5 Inch FHD Dual 13MP CAM Touch ID 4060mAh Smartphone-gold,100,1,32.0,4.0,4060.0,13MP,13.0,5.5,5.0
+293,Huawei,120891,155690,22,"Honor 8X 6GB+128GB 6.5"" 20MP+2MP AI Dual Cameras Kirin 710 Octa Core Fingerprint Unlock Dual SIM Dual Standby 3750mAh-Blue",80,1,128.0,6.0,3750.0,20MP+2MP,22.0,6.5,4.0
+294,Lenovo,46990,61999,24,K5 Pro 4050mAh 4GB+64GB Four Cameras 5.99inch Mobile Phone Snapdragon636 Octa Core 4G LTE,82,20,64.0,4.0,4050.0,,21.0,5.99,4.5
+295,XIAOMI,62000,62000,0,"Mi Redmi 6A 4G 5.45"" 2GB RAM 16GB ROM Android 8.1 3000mAh - BLACK",80,1,16.0,2.0,3000.0,,21.0,5.45,4.0
+296,Huawei,39500,59500,34,P8 4G LTE Mobile Phone Android 5.0 Kirin 935 IPS 1920X1080 3GB RAM 16GB ROM -Gold,100,1,16.0,3.0,,,21.0,6.0,5.0
+297,Elephone,38990,100000,61,A6 Mini 5.71 Inch Waterdrop Screen Mobile Phone Android 9.0 HD+ 4GB RAM 64GB 16MP 3180mah 4G Smartphone,80,3,64.0,4.0,3180.0,16MP,16.0,5.71,4.0
+298,Sony,45900,62900,27,"Xperia Z5 Compact E5823 2GB+32GB Android Quad-Core 4.6"" 23.0MP GSM Refurbished Mobile Phone(Black)",80,1,32.0,2.0,,23.0MP,23.0,4.6,4.0
+299,Gionee,50400,50400,0,S8s 5.86-Inch (32GB ROM + 3GB RAM) 4G LTE Selfie 3000mAh Smartphone - Gold,90,2,32.0,3.0,3000.0,,21.0,5.86,4.5
+300,XIAOMI,86940,173880,50,MI (Mi) Redmi Note5 4GB RAM +64GB ROM 5.99Inch AI Android MIUI Dual SIM 4G Smartphone-Rose Gold,94,12,64.0,4.0,,,21.0,5.99,5.0
+301,LG,29999,52745,43,Smart Phone， LG G4 4G LTE H815 Mobile Phone Hexa Core 5.5 Inch 16.0MP Camera 3GB+32GB-Black,100,2,32.0,3.0,,16.0MP,16.0,5.5,5.0
+302,Letv Leeco,54990,94195,42,Letv LeTV LeEco Le 2 X520 5.5'' (3GB+64GB ROM) Snapdragon 652 1.8GHz Octa Core 4G Smartphone,90,2,64.0,3.0,,,21.0,5.5,4.5
+303,LG,89900,89900,0,"G6 5.7"" (4GB , 64GB) Android 7 , 13MP, 4G Single SIM - Blue",90,2,64.0,4.0,,13MP,13.0,5.7,4.5
+304,Sharp,65000,65000,0,Global Version R1S 5.5 Inch HD IPS MTK6750 Octa Core 3GB RAM 32GB ROM -Gold,89,12,32.0,3.0,,,21.0,5.5,4.5
+305,Cubot,29180,37934,23,"R9 - 3G Phablet - 5.0"" 13MP+5MP With Front Flash (2GB, 16GB ROM) Android 7.0 Fingerprint - Blue",70,2,16.0,2.0,,13MP+5MP,18.0,5.0,3.5
+306,LG,26500,60000,56,Android Smartphone LG G4 4G LTE H815 Mobile Phone Hexa Core 5.5 Inch 16.0MP Camera 3GB+32GB-leather Browm,60,1,32.0,3.0,,16.0MP,16.0,5.5,3.0
+307,Oppo,89000,89000,0,A57 5.2 Inch 3GB 32GB (Expandable Up To 256GB) Android 6.0 Qualcomm Octa-core Black,80,1,32.0,3.0,,,21.0,5.2,4.0
+308,Letv,42490,50988,17,Le X526 4G Phablet 5.5 Inch Android 6.0 Snapdragon 652 Octa Core 1.8GHz 3GB RAM 64GB ROM-Gold,100,3,64.0,3.0,,,21.0,5.5,5.0
+309,XIAOMI,51990,51990,0,"Redmi Note 3 5.5-Inch (2GB,16GB ROM), 16MP + 5MP Dual SIM 4G Smartphone - Golden",70,4,16.0,2.0,,16MP+5MP,21.0,5.5,3.5
+310,Samsung,160000,160000,0,"Galaxy S8 5.8-Inch QHD (4GB,64GB ROM) Android 7.0 Nougat, 12MP + 8MP Dual SIM LTE - Maple Gold",100,1,64.0,4.0,,12MP+8MP,20.0,5.8,5.0
+311,Samsung,250000,250000,0,Samsung Galaxy S9 Plus Black,25,4,32.0,4.0,,,21.0,6.0,1.5
+312,Nokia,500,0,28,2700C 2700 Classic Mobile Phone GSM 2MP FM Mp3 Player Cheap Phone Free Shippping,100,1,32.0,4.0,,2MP,2.0,6.0,5.0
+313,Gionee,99000,99000,0,"M6 Plus 6” FHD  (4GB,64GB) Android , 16MP+8MP Dual SIM 4G LTE Smartphone 6,020mAh - Gold",80,1,64.0,4.0,20.0,16MP+8MP,24.0,6.0,4.0
+314,Gionee,99990,99990,0,M6 5.5'HD 4G RAM+64G ROM 13MP 8MP Camera 5000mAh Battery Android OS 4G Smartphone,20,1,64.0,4.0,5000.0,13MP+8MP,21.0,5.5,1.0
+315,Sharp,42000,42000,0,R1 5.2 Inch HD 2.5D Curved Glass 3GB RAM 32GB ROM 13MP+8MP Android 7.0 4G Smartphone 4000mAh,94,3,32.0,3.0,4000.0,13MP+8MP,21.0,5.2,5.0
+316,Nokia,89999,89999,0,X5 5.86 Inch HD+ 4GB RAM 64GB ROM 13MP + 8MP Android 8.1 4G LTE Smartphone Dual Sim  - Black,92,5,64.0,4.0,,13MP+8MP,21.0,5.86,5.0
+318,Sony,42500,68167,38,Xperia Z5 E6653 Single SIM Phone 3GB 32GB GSM WCDMA 4G LTE Octa Core 5.2 Inch 23MP Camera Smartphone(Gold),20,1,32.0,3.0,,23MP,23.0,5.2,1.0
+319,Gionee,89900,89900,0,"S10 5.5” FHD  (6GB,64GB) Android 7.1, 20MP+16MP Dual SIM 4G LTE Smartphone 3,450mAh - Gold",80,1,64.0,6.0,450.0,20MP+16MP,36.0,6.0,4.0
+320,LG,89900,89900,0,"G6 5.7"" (4GB , 64GB) 4G Single SIM ,Android 7 , 13MP - Black",88,8,64.0,4.0,,13MP,13.0,5.7,4.5
+321,Huawei,69000,69000,0,Honor 7A 2GB 32GB 4G LTE Mobilephone Face ID 5.7inch 13MP 3000mAh Android Smartphone-Black,60,1,32.0,2.0,3000.0,13MP,13.0,5.7,3.0
+322,Tecno,75399,90000,16,"Camon 12 PRO (CC9) 6.4-Inch HD (6GB RAM, 64GB ROM) Android™ 9 Pie, (16MP+8MP+2MP)+32MP, Dual SIM 4G LTE Smartphone- Dawn Blue",90,2,64.0,6.0,,16MP+8MP+2MP+32MP,58.0,6.4,4.5
+323,Vernee,27100,32500,17,4G Smartphone Android 7.0 5.2 Inch MTK6750 Octa Core 1.5GHz 4GB RAM 64GB ROM,80,3,64.0,4.0,,,21.0,5.2,4.0
+324,LG,69999,69999,0,G5 H820 5.3'' 4GB+32GB Snapdragon Quad Core 16.0MP LTE IPS 1080P Single SIM - Gold,80,1,32.0,4.0,,16.0MP,16.0,5.3,4.0
+325,Lenovo,35999,47242,24,A5s 4G 5.45 Inch (2GB RAM 16GB ROM) 3000mAh Battery Android P-BLACK,80,1,16.0,2.0,3000.0,,21.0,5.45,4.0
+326,Leagoo,68000,68000,0,POWER 2 Pro 2GB+16GB Dual Back Cameras 4000mAh Battery 5.2 Inch Android 8.1 4G Smartphone,80,1,16.0,2.0,4000.0,,21.0,5.2,4.0
+327,Alcatel,49900,52000,4,"Pop 4 - 5 Inch, 4G LTE Android Smartphone",100,1,32.0,4.0,,,21.0,5.0,5.0
+328,Htc,85000,85000,0,Desire  826W 5.5 Inch FHD Cell Phone Snapdragon 615 Quad Core 3GB 32GB Smartphone-White,100,1,32.0,3.0,,,21.0,5.5,5.0
+329,Nokia,10800,19000,43,C5-00 5MP Warm Grey Quadband-Handy Cell Phone GSM 3G 3MP FM GPS Bluetooth,80,2,32.0,4.0,,5MP+3MP,8.0,6.0,4.0
+330,Htc,105000,105000,0,"U Ultra Dual Sim 5.7"" (4GB. 64GB) - 12MP Camera - Ice White",80,1,64.0,4.0,,12MP,12.0,5.7,4.0
+331,Huawei,68999,113899,39,"Smartwatch，Y7 Pro (2019) 6.26-Inch(3GB, 32GB ROM) Android 8.1 Oreo (13MP + 2MP)+16MP Dual SIM 4G Smartphone-Blue",74,3,32.0,3.0,,13MP+2MP+16MP,31.0,6.26,4.0
+332,Oppo,79073,88000,10,"Realme Q 4GB+64GB 6.3"" 48MP Quad Cameras Snapdragon 712 Octa Core 20W QC VOOC 3.0 4035mAh-Blue",100,1,64.0,4.0,4035.0,48MP,48.0,6.3,5.0
+333,XIAOMI,85398,91899,7,"Xiaomi Redmi Note 7 6GB+64GB ROM 6.3"" Octa Core 48MP+5MP 13MP Face&Fingerprint ID Quick Charge 4000mAh-White",100,1,64.0,6.0,4000.0,48MP+5MP+13MP,66.0,6.3,5.0
+334,Blackview,139000,216914,36,"BV9600 Pro 6GB+128GB 5580mAh Battery 6.21"" Android 8.1 4G Smartphone",60,1,128.0,6.0,5580.0,,21.0,6.21,3.0
+335,Huawei,54000,54000,0,"Y6 Prime (2019) 6.09-Inch HD+ DewDrop (2GB RAM, 32GB ROM) Android 9.0 Pie, 13MP + 8MP Dual SIM 4G LTE Smartphone - Sapphire Blue ",56,4,32.0,2.0,,13MP+8MP,21.0,6.09,3.0
+336,Nokia,130000,130000,0,"Nokia 7.2, 6.3-Inch LCD (6GB RAM, 128GB ROM) Android 9.0, (48MP + 8MP + 5MP)+20MP, Dual SIM 4G Smartphone - Cyan Green",80,1,128.0,6.0,,48MP+8MP+5MP+20MP,81.0,6.3,4.0
+337,Samsung,530000,530000,0,Galaxy S20 Ultra 6.9-Inch (12GB 128GB ROM) Android 10.0 (108MP + 48MP + 12MP + 0.3MP)+(40MP) Dual SIM 4G - Cosmic Black,100,1,128.0,12.0,,108MP+48MP+12MP+0.3MP+40MP,211.0,6.9,5.0
+338,Samsung,69999,69999,0,"Galaxy M20 6.3-Inch Infinity FHD+ (3GB, 32GB ROM)  Android 8.1 (Oreo); Experience 9.5 (13MP + 5MP) + 8MP Dual SIM 4G Fingerprint & Face ID Smartphone - Charcoal Black",86,56,32.0,3.0,,13MP+5MP+8MP,26.0,6.3,4.5
+339,Huawei,82999,85999,3,Enjoy 8e Dual Rear Camera 5.7 Inch 3GB RAM 32GB ROM Snapdragon 430 Octa Core 4G Smartphone,40,1,32.0,3.0,,,21.0,5.7,2.0
+340,Samsung,75000,200000,63,Galaxy Note 5 (Single SIM) 4GB+32GB ROM 5.7'' Screen - Blue,40,1,32.0,4.0,,,21.0,5.7,2.0
+341,Sony,31544,52573,40,"Sony Xperia L1 5.5 Inch Dual 4G Smartphone With 2GB RAM 16GB ROM, 13MP Rear Camera - EU Plug",100,1,16.0,2.0,,13MP,13.0,5.5,5.0
+342,Gionee,139999,139999,0,"M6 (GN8003) 5.5-Inch HD (4GB,64GB ROM) Android 6.0 Marshmallow, 13MP + 8MP Dual SIM 4G Smartphone - Mocha Gold",80,1,64.0,4.0,,13MP+8MP,21.0,5.5,4.0
+343,Oukitel,42328,42328,0,"OUKITEL C15 Pro - 4G - 6.088"" - (2GB RAM + 16GB ROM) - Android 9.0 Pie - 3 Camera - Fingerprint Sensor - 3200mAh - BLACK",60,2,16.0,2.0,3200.0,,21.0,6.09,3.0
+344,Doogee,59460,103071,42,S60 Lite 4GB+32GB 5580mAh Battery 5.2 Inch Android 7.0 MTK6750T Octa Core Up To 1.5GHz 4G(Black),100,1,32.0,4.0,5580.0,,21.0,5.2,5.0
+345,Huawei,60799,78999,23,Huawei Y7 Prime 2018 Enjoy 8 3GB RAM 32GB ROM 5.99''Octa Core 1440*720P 3000mAh Dual Rear Camera,20,1,32.0,3.0,3000.0,,21.0,5.99,1.0
+346,Tecno,21000,25000,16,"F1 5-Inch (1GB, 8GB ROM) Android 8 Oreo (Go Edition), 5MP + 2MP Dual SIM 3G Smartphone - Dark Blue",80,2,8.0,1.0,,5MP+2MP,7.0,5.0,4.0
+347,Leeco,42990,47760,10,Le Pro3 Elite 5.5 Inch Android 6.0 4G Phablet Snapdragon 820 Quad Core 4GB RAM 32GB ROM 8MP + 16MP Cameras-Gold,100,1,32.0,4.0,,8MP+16MP,24.0,5.5,5.0
+348,Oppo,95629,102600,7,"Realme Q 6GB+64GB 6.3"" 48MP Quad Cameras Snapdragon 712 Octa Core 20W QC VOOC 3.0 4035mAh-Green",97,6,64.0,6.0,4035.0,48MP,48.0,6.3,5.0
+349,XIAOMI,97000,97000,0,"Redmi Note 4 5.5-Inch HD (4GB,64GB ROM) Android 6.0 Marshmallow, 13MP + 5MP Dual SIM 4G Smartphone - Black",100,2,64.0,4.0,,13MP+5MP,18.0,5.5,5.0
+350,Huawei,101835,136240,25,"Honor 8X Max 6GB+64GB 7.12"" Dual Camera Snapdragon 660 Octa Core Fingerprint Unlock Dual SIM 18W QC 5000mAh-Black",100,1,64.0,6.0,5000.0,,21.0,7.12,5.0
+351,Nokia,10800,19000,43,C5 C5-00 Mobile Phone 3MP/5MP Camera 3G GPS Bluetooth FM C5-00 Cell Phone Cheap Phone Frees Shipping,100,1,32.0,4.0,,3MP+5MP,8.0,6.0,5.0
+352,Nokia,0,19000,53,"215 ASHA 2.4"" 2MP CAMERA Bluetooth Dual SIM Keyboard Mobile Phone- Black",80,1,32.0,4.0,,2MP,2.0,2.4,4.0
+353,Lenovo,54999,88430,38,S5 Pro L58041 6GB RAM 64GB ROM Rear Camera 20.0MP+12.0MP SDM636 Octa-Core 1.8GHz  Phone-BLACK,100,1,64.0,6.0,,20.0MP+12.0MP,32.0,6.0,5.0
+354,Kismo,500,500,0,"Kismo T660- FOUR SIM, Slim Metallic Design ,16mb ROM+8mb RAM With Big Battery - Black",20,1,32.0,4.0,,,21.0,6.0,1.0
+355,Lenovo,51910,51910,0,Lenovo K5 K350t 5.7'' Mobile Phone 3GB RAM 32GB ROM MT6750 Octa-core Smartphone,80,1,32.0,3.0,,,21.0,5.7,4.0
+356,Fero,35100,35100,0,"Royale A1 5.0-Inch (1GB, 8GB ROM) Android 6.0 Marshmallow, 8MP + 5MP Dual SIM 3G Smartphone",50,2,8.0,1.0,,8MP+5MP,13.0,5.0,2.5
+357,Arashi,96999,97000,1,"Global Version Xiaomi Redmi Note 5 4GB 64GB Cellphone Snapdragon S636 Octa Core 4000mAh 5.99"" 12.0MP+5.0MP",80,2,64.0,4.0,4000.0,12.0MP+5.0MP,17.0,5.99,4.0
+358,XIAOMI,100000,100000,0,"Note 8 Pro, 6.53 Inch, 6GB RAM 64GB ROM, 64MP + 8MP + 2MP +2MP, Android 9.0, Battery 4500mAh. Mineral Grey",80,1,64.0,6.0,4500.0,64MP+8MP+2MP+2MP,76.0,6.53,4.0
+359,Samsung,125000,125000,0,"Galaxy A9 6.3-Inch Full HD+ SAMOLED (6GB, 128GB ROM) Android 8.0 Oreo, 24MP + 24MP Dual SIM 4G - Black",100,1,128.0,6.0,,24MP+24MP,48.0,6.3,5.0
+360,Gionee,99900,99900,0,"M7P (4GB, 64GB ROM) 5000mAh, 13MP Android 7.1 Dual Sim 4G  - Black",96,5,64.0,4.0,5000.0,13MP,13.0,6.0,5.0
+361,Itel,25000,25000,0,"A32F 5"" Screen, Android 8.1, 8GB ROM+1GB RAM, 5MP + 2MP Camera, Fingerprint, Dual SIM Smartphone - Gold And Free Case",100,1,8.0,1.0,,5MP+2MP,7.0,5.0,5.0
+362,XIAOMI,56780,56780,0,Redmi 4X 3+32GB Smartphone 5.0' 13MP Camera Fingerprint ID Pink,80,1,32.0,3.0,,13MP,13.0,5.0,4.0
+363,Asus,92840,132629,30,"ZenFone Max Pro ZB602KL, 6GB+64GB, Global Official Version, 6.0 Inch Android 8.1 Oreo 4G Smartphone (Silver + Grey)",80,1,64.0,6.0,,,21.0,6.0,4.0
+364,Samsung,69999,69999,0,"Galaxy M20 6.3-Inch Infinity FHD+ (3GB, 32GB ROM)  Android 8.1 (Oreo); Experience 9.5 (13MP + 5MP) + 8MP Dual SIM 4G Fingerprint & Face ID Smartphone - Ocean Blue",94,12,32.0,3.0,,13MP+5MP+8MP,26.0,6.3,5.0
+365,XIAOMI,79999,79999,0,"Redmi Note 7 6.3-Inch (4GB RAM, 64GB ROM) Android 9.0 (Pie) (48MP + 5MP) + 13MP 4G Face & Fingerprint ID - Neptune Blue",100,5,64.0,4.0,,48MP+5MP+13MP,66.0,6.3,5.0
+366,Samsung,145000,145000,0,"Galaxy A51 6.5-Inch (6GB,128GB ROM) Android10.0, (48MP +12MP + 5MP + 5MP) + 32MP Dual SIM - Prism Crush Pink",100,3,128.0,6.0,,48MP+12MP+5MP+5MP+32MP,102.0,6.5,5.0
+367,Partner,59000,59000,0,PS2 5.5 Inch FHD 3GB 16GB 20MP+13MP 3500mAh Smartphone - Black,50,2,16.0,3.0,3500.0,20MP+13MP,33.0,5.5,2.5
+368,Blackview,69800,99714,30,BV6100 3GB+16GB 5580mAh Battery 6.8” Android 9.0 4G OTG NFC Smartphone - Silver,80,1,16.0,3.0,5580.0,,21.0,6.0,4.0
+369,Lenovo,99999,99999,0,K5 Pro 5.99 HD（6GB+64GB）4050mAh Four Cameras Mobile Phone 4G LTE Smartphone - BLACK,100,1,64.0,6.0,4050.0,,21.0,6.0,5.0
+370,Itel,31990,32000,1,"S15 6.1"" HD+ 16MP AI Front Camera, 1GB RAM + 16GB ROM, Android 9, Face ID & Fingerprint, 3000mAh - Red + Free 32GB Card",90,10,16.0,1.0,3000.0,16MP,16.0,6.1,4.5
+371,XIAOMI,51990,51990,0,"Redmi Note 3 5.5-Inch (2GB,16GB ROM), 16MP + 5MP Dual SIM 4G Smartphone - Black",80,1,16.0,2.0,,16MP+5MP,21.0,5.5,4.0
+372,Oppo,89000,89000,0,OPPO A57 5.2 Inch 3GB 32GB (Expandable Up To 256GB) Android 6.0 Qualcomm Octa-core Pink,100,1,32.0,3.0,,,21.0,5.2,5.0
+373,Lenovo,46990,61999,24,"K5 Pro 4050mAH 4GB RAM+64GB ROM,5.99inch Mobile Phone Snapdragon636 Octa Core 4G LTE Smartphone-black",92,7,64.0,4.0,4050.0,,21.0,5.99,5.0
+374,Gionee,69900,69900,0,"M7 (6GB, 64GB ROM) 4000mAh, 16MP Android 7.1 Dual Sim 4G  - Black",60,2,64.0,6.0,4000.0,16MP,16.0,6.0,3.0
+375,Doogee,59460,101271,41,S60 Lite 4GB+32GB 5580mAh Battery 5.2 Inch Android 7.0 MTK6750T Octa Core Up To 1.5GHz 4G(Silver),80,2,32.0,4.0,5580.0,,21.0,5.2,4.0
+376,Gionee,36000,100000,64,"S11 Lite 5.7-Inch HD 18:9 Full Screen Mobile Phone 4GB,32GB ROM Android 7.1  4G LTE Fingerprint ID Smartphone - Gold",84,6,32.0,4.0,,,21.0,5.7,4.5
+378,LG,34999,199999,83,Smart Phone， LG G4 4G LTE H815 Mobile Phone Hexa Core 5.5 Inch 16.0MP Camera 3GB+32GB-White,100,1,32.0,3.0,,16.0MP,16.0,5.5,5.0
+379,LG,89000,89000,0,G6 VS988 Snapdragon 821 Dual Rear Camera 5.7'' 4GB+32GB+64GB  LTE 4G Single SIM - Blue 32GB,100,1,32.0,4.0,,,21.0,5.7,5.0
+380,Ulefone,186000,265714,30,"Armor 7 Rugged Phone, 8GB+128GB, 6.3 Inch Android 9.0 4G Smartphone - Black",100,1,128.0,8.0,,,21.0,6.3,5.0
+381,Gionee,69000,229999,70,"M7 Power (4GB, 64GB ROM) 5000mAh, 13MP+8MP, Android 7.1, Dual Sim 4G LTE - Black",100,2,64.0,4.0,5000.0,13MP+8MP,21.0,6.0,5.0
+382,Itel,400,400,0,"5625 Triple Sim Card, Loud Speaker, Rear Camera 1.3MP, 2.8 Screen, 2500 MAh, 8MB ROM + 8MB Ram Up To 32GB",80,1,32.0,4.0,2500.0,1.3MP,4.0,6.0,4.0
+383,Lenovo,51910,51910,0, K5 K350t 5.7'' Mobile Phone 3GB RAM 32GB ROM MT6750 Octa-core Smartphone,20,1,32.0,3.0,,,21.0,5.7,1.0
+384,LG,79900,79900,0,"G6 5.7"" (4GB , 32GB) 4G Single SIM , Android 7 , Dual13MP - Blue",100,1,32.0,4.0,,13MP,13.0,5.7,5.0
+385,Ulefone,42120,60171,30,Note 7P 3GB+32GB 6.1 Inch Waterdrop Screen Android 9.0 4G Smartphone - Black,100,1,32.0,3.0,,,21.0,6.1,5.0
+386,Homtom,45800,76334,40,"HOMTOM ZOJI Z33 IP68 Waterproof 5.85"" Full Display Smartphone Quad Core 3GB+32GB 4600mAh Face ID 4G Mobile Phone(Orange)",100,1,32.0,3.0,4600.0,,21.0,5.85,5.0
+387,Blackview,164600,235143,30,"BV9700 Pro, 6GB+128GB, With Night Vision, 5.84 Inch Android 9.0 Pie, 4380mAh Battery, 4G Smartphone - Tarnish",100,1,128.0,6.0,4380.0,,21.0,5.84,5.0
+388,Samsung,180000,180000,0,"Galaxy Note 8 6.3-Inch QHD (6GB,64GB ROM), (12MP + 12MP) + 8MP 4G LTE Smartphone - Blue",20,1,64.0,6.0,,12MP+12MP+8MP,32.0,6.3,1.0
+389,Samsung,115056,150900,24,"Galaxy A60 6GB+64GB 6.3"" 32MP Triple Cameras Snapdragon 675 Octa Core Fingerprint Unlock 15W QC 3500mAh-Black",87,6,64.0,6.0,3500.0,32MP,32.0,6.3,4.5
+390,ZTE,36000,36000,0,ZTE Blade A520 Smart Phone 1GB+8GB 5.0 Inch Quad Core Android 6.0 Dual SIM 8MP Cellphone,80,1,8.0,1.0,,8MP,8.0,5.0,4.0
+391,Doogee,71900,100099,28,"N100, 4GB+64GB, 5.99 Inch Android 9.0 Pie MTK6763 Helio P23 Octa Core Up To 2.0GHz",100,1,64.0,4.0,,,21.0,5.99,5.0
+392,Gionee,42250,78690,46,"S11 Lite 5.7 Inch HD (4GB,64GB ROM) Android 7.1 13MP + 16MP, Hybrid Dual SIM 4G LTE Fingerprint ID Smartphone - Black",90,2,64.0,4.0,,13MP+16MP,29.0,5.7,4.5
+393,Huawei,129229,162380,20,"Y9 (2019) 6GB+128GB 6.5"" 16MP+2MP AI Dual Camera Kirin 710 Octa Core Fingerprint Unlock Dual SIM 4000mAh-Blue",80,2,128.0,6.0,4000.0,16MP+2MP,18.0,6.5,4.0
+394,Samsung,133541,143000,7,"Galaxy A50s 6GB+128GB 6.4"" 48MP Triple+32MP Camera Exynos 9611 Octa Core 4000mAh-White",87,3,128.0,6.0,4000.0,48MP+32MP,80.0,6.4,4.5
+395,Samsung,59900,96800,38,"Galaxy S6 Edge 5.1"" Curved Screen 32GB ROM 16MP Phone - White",50,2,32.0,4.0,,16MP,16.0,5.1,2.5
+396,XIAOMI,59900,89990,33,Redmi Note 7 6GB 64GB Smartphone Snapdragon 660 Octa Core 4000mAh 48+13MP-Red,100,2,64.0,6.0,4000.0,13MP,13.0,6.0,5.0
+397,Htc,100000,100000,0,Desire 10 Pro 4GB 64GB 4G LTE Mobile Phone 5.5'' Octa Core 3000mAh Smart Phone,80,1,64.0,4.0,3000.0,,21.0,5.5,4.0
+398,Samsung,160000,165000,3,"Galaxy Note 8 6.3'' Single Sim QHD Smartphone (6GB+64GB) 12MP Android Phone - Midnight Black ,",40,1,64.0,6.0,,12MP,12.0,6.3,2.0
+399,Samsung,270000,280000,4,"Galaxy S10 6.1-Inch AMOLED (8GB,128GB ROM) Android 9.0 Pie, 12MP + 12MP + 16MP Dual SIM 4G Fingerprint - Prism White",100,1,128.0,8.0,,12MP+12MP+16MP,40.0,6.1,5.0
+400,Nokia,66129,98999,33,"Nokia 7 4G 64G 5.2"" IPS 16:9 Ratio Screen Snapdragon 630 Octa-core 2.2 GHz Dual 16mp Android 7.1 NFC Phone",100,1,64.0,4.0,,16mp,16.0,5.2,5.0
+401,Tecno,71999,77500,7,"Camon 12 PRO (CC9) 6.4-Inch HD (6GB RAM, 64GB ROM) Android™ 9 Pie, (16MP+8MP+2MP)+32MP, Dual SIM 4G LTE Smartphone - Dawn Blue",100,1,64.0,6.0,,16MP+8MP+2MP+32MP,58.0,6.4,5.0
+402,Huawei,39900,59900,33,P8 4G LTE Mobile Phone Android Kirin 935 Octa Core 5.2 Inch IPS 1920X1080 3GB RAM 16GB ROM 13.0MP - Light Gold,100,1,16.0,3.0,,13.0MP,13.0,5.2,5.0
+403,Gionee,69000,219999,69,"M7 Power (4GB, 64GB ROM) 5000mAh, 13MP+8MP, Android 7.1, Dual Sim 4G LTE - Black",76,5,64.0,4.0,5000.0,13MP+8MP,21.0,6.0,4.0
+404,Oppo,92068,94600,3,"Realme 3 Pro/X Lite 6GB+64GB 6.3"" 16MP+5MP Rear Camera Snapdragon 710 Octa Core Quick Charge 3.0 4045mAh Battery-Purple",60,2,64.0,6.0,4045.0,16MP+5MP,21.0,6.3,3.0
+405,Tecno,22000,30000,27,"F1 5-Inch (1GB, 8GB ROM) Android 8 Oreo (Go Edition), 5MP + 2MP Dual SIM 3G Smartphone - Gold",87,3,8.0,1.0,,5MP+2MP,7.0,5.0,4.5
+406,Gionee,39500,100000,61,"S11 Lite 5.7-Inch HD 18:9 Full Screen 4GB,64GB ROM Android 7.1  Dual SIM 4G LTE Fingerprint ID Smartphone - Black",80,1,64.0,4.0,,,21.0,5.7,4.0
+407,Samsung,129990,240000,46,Galaxy Note 8 6.3'' QHD Smartphone (6GB+64GB) 12MP Android Phone-Gold,100,1,64.0,6.0,,12MP,12.0,6.3,5.0
+408,Letv,32400,94195,66,"Letv Letv Le 2 X526 3GB RAM 64GB ROM 5.5"" FHD Qualcomm Snapdragon 652 1.8GHz Octa Core 4G LTE Smartphone",60,3,64.0,3.0,,,21.0,5.5,3.0
+409,Tecno,61550,65000,5,"Pouvoir 3 Plus, 6.35"" Amoled (64GB ROM+ 4GB RAM) , (13MP + 8MP + 2MP)+13MP FF, 6000mAh, 4G LTE,  - Champagne Gold",20,1,64.0,4.0,6000.0,13MP+8MP+2MP+13MP,36.0,6.35,1.0
+410,LG,65999,65999,0,V20 F800 Quad Core 5.7'' 4GB+64GB 16MP LTE Android Single SIM - Black,95,4,64.0,4.0,,16MP,16.0,5.7,5.0
+411,Blackview,27590,39457,30,"A30 3G 5.5"" 2GB RAM + 16GB ROM Android 8.1 2500mAh Battery - Gold",100,1,16.0,2.0,2500.0,,21.0,5.5,5.0
+412,Ulefone,49320,70457,30,"Armor X5 Rugged Phone, 3GB+32GB, 5.5 Inch Android 9.0, 5000mAh Battery, 4G Smartphone - Orange",100,2,32.0,3.0,5000.0,,21.0,5.5,5.0
+413,Nokia,89999,89999,0,X5 5.86 Inch HD+ 4GB RAM 64GB ROM 13MP + 8MP Android 8.1 4G LTE Smartphone Dual Sim  - Blue,80,2,64.0,4.0,,13MP+8MP,21.0,5.86,4.0
+414,Nokia,30000,35000,14,"2.1 5.5-inch HD Display 8GB, 1GB RAM  (8MP + 5MP) Dual Sim 4000mAh - Blue Copper",100,1,8.0,1.0,4000.0,8MP+5MP,13.0,5.5,5.0
+415,Samsung,120000,120000,0,"Galaxy A50s 6.4-Inch (4GB,128GB ROM) Android 9 Pie, (48MP+5MP+ 8MP) + 32MP 4G Dual SIM - Prism Crush White",100,1,128.0,4.0,,48MP+5MP+8MP+32MP,93.0,6.4,5.0
+416,Ulefone,176500,245700,28,"Armor 7 Rugged Phone, 8GB+128GB, 6.3 Inch Android 9.0 4G Smartphone - Black",80,1,128.0,8.0,,,21.0,6.3,4.0
+417,Gionee,198888,198888,0,M6 FHD 5.5-Inch AMOLED 4GB RAM+128GB ROM 13MP + 8MP Dual SIM 4G  Gold 128GB,50,2,128.0,4.0,,13MP+8MP,21.0,5.5,2.5
+418,Motorola,42999,61999,31,Moto G6 Green Pomelo 1S XT1925 Smartphone 5.7 Inch 18:9 4GB+64GB 3000mAh-Blue,80,1,64.0,4.0,3000.0,,21.0,5.7,4.0
+419,M Horse,50116,50116,0,PURE 2 5.99 Inch Mobile Phone Octa Core 4GB+64GB 13MP+2MP Fingerprint -Black,60,1,64.0,4.0,,13MP+2MP,15.0,5.99,3.0
+420,Gionee,47000,120000,61,M6 Gn8003 5.5-Inch 4GB RAM+64GB+128GB ROM 5000mAh 13MP + 8MP Dual SIM 4G Gold,60,1,64.0,4.0,5000.0,13MP+8MP,21.0,5.5,3.0
+421,Samsung,140000,140000,0,"Galaxy A9 (2018) 6.3-Inch SAmoled (6GB, 128GB ROM),Android 8.0 Oreo, Quad Rear Cameras (24MP + 5MP + 10MP + 8MP) + 24MP ,4G LTE Dual SIM Smartphone - Bubblegum Pink",92,10,128.0,6.0,,24MP+5MP+10MP+8MP+24MP,71.0,6.3,5.0
+422,Huawei,57299,81899,30,Mate 8 Used Smartphone (4GB RAM 64GB ROM) 90% New Andorid 6.0 1080X1920 Pixels 4000mAh-Gold,100,1,64.0,4.0,4000.0,,21.0,6.0,5.0
+423,Huawei,65900,95900,31,"P8 Max 6.8"" Inch 4G LTE Mobile Phone Kirin 935 Android  IPS 1920X1080 3GB RAM 32GB ROM 13.0MP -Gold",60,1,32.0,3.0,,13.0MP,13.0,6.8,3.0
+424,Cubot,35990,71955,50,"H3 5.0 Inch (3GB RAM 32GB ROM), 13.0MP + 0.3MP Android 7.0 6000mAh Battery 4G Smartphone-GOLDEN",20,1,32.0,3.0,6000.0,13.0MP+0.3MP,16.0,5.0,1.0
+425,Gionee,51351,97296,47,M7 Power 6 Inch 4GB RAM 64GB ROM 13MP+8MP Hybrid Dual SIM Android 7.1 4G LTE Smartphone 5000mAh,80,1,64.0,4.0,5000.0,13MP+8MP,21.0,6.0,4.0
+426,XIAOMI,113284,161996,30,"Mi 9T, 4G, 6.39 Inch (6GB RAM + 128GB ROM) Octa Core, 48.0MP + 13.0MP + 8.0MP Rear Camera - Blue",92,26,128.0,6.0,,48.0MP+13.0MP+8.0MP,69.0,6.39,5.0
+427,Oppo,138892,143000,3,"Realme X2 8GB+128GB 6.4"" 64MP Quad+32MP Front Cameras Snapdragon 730G Octa Core Fast Charging 30W 4000mAh-Blue",100,1,128.0,8.0,4000.0,64MP+32MP,96.0,6.4,5.0
+428,Gionee,30300,125405,76,S10C 5.2 Inch HD 4GB RAM 32GB ROM 16MP+13MP Hybrid Dual SIM 4G LTE Smartphone 3100mA,40,1,32.0,4.0,,16MP+13MP,29.0,5.2,2.0
+429,Huawei,66900,96900,31,Honor 8 Lite 4GB 64GB Mobile Phone Andriod Core 5.2inch 1920*1080P Rear 12.0MP -Blue,100,1,64.0,4.0,,12.0MP,12.0,5.2,5.0
+430,Gionee,39999,45000,11,"S11 Lite 5.7-Inch HD (4GB,64GB ROM) Android 7.1 (13MP + 2MP) + 16MP Dual SIM 4G LTE Fingerprint ID- Gold + Free Gift",80,1,64.0,4.0,,13MP+2MP+16MP,31.0,5.7,4.0
+431,XIAOMI,69999,69999,0,"Redmi Note 7 6.3-Inch FHD (3GB, 32GB ROM) Android 9.0 (Pie) (48MP + 5MP) + 13MP 4G Face & Fingerprint ID - Blue",94,3,32.0,3.0,,48MP+5MP+13MP,66.0,6.3,5.0
+432,Tecno,45990,75000,39,"Spark 4(KC8),6.53Inch Android 9pie,13MP Tripple Al Camera, 4000mAh, VACATION BLUE",80,1,32.0,4.0,4000.0,13MP,13.0,6.53,4.0
+433,Blackview,164120,234457,30,"BV9500 Pro Rugged Phone, 6GB+128GB, 5.7 Inch Android 8.1, Walkie-talkie, 10000mAh Battery, 4G Smartphone - Green",100,1,128.0,6.0,10000.0,,21.0,5.7,5.0
+434,Tecno,58500,60000,3,"Camon 12 6.52-Inch (4GB, 64GB ROM) Android 9.0 (Pie), (16MP+8MP+2MP) + 16MP Dual SIM 4G LTE Smartphone- DAWN BLUE",100,2,64.0,4.0,,16MP+8MP+2MP+16MP,42.0,6.52,5.0
+435,Huawei,107280,153257,30,"MediaPad T3 10 AGS-L09, 9.6 Inch, 3GB+32GB Official Global ROM, EMUI 5.1(Gold)",80,1,32.0,3.0,,,21.0,9.6,4.0
+436,Hoot,25270,50540,50,"X21 6.1"" HD 18:9 LCD Display 2G+16G 1320x720 Smartphone Mobile Phone Dual SIM-Gold",64,12,16.0,2.0,,,21.0,6.1,3.5
+437,Cool Pad,30490,36790,17,Mega 5 5.7 Inch HD+ 3GB RAM 32GB 13MP + 5MP Android 8.1 4G LTE Smartphone Dual Sim 3000Mah - Gold,100,1,32.0,3.0,3000.0,13MP+5MP,18.0,5.7,5.0
+438,Melrose,28600,33000,13,S9 (New Version) Mini 4G Smartphone Android 7.0 Quad Core 1GB+8GB 1580mAh Mobile Phone - Black,100,2,8.0,1.0,1580.0,,21.0,6.0,5.0
+439,Gionee,34500,34500,0,"M6 Mini 5.45-Inch HD (1GB RAM + 16GB ROM) 5MP Selfie + 8MP Rear Camera, 4000mAh Smartphone - Blue",79,64,16.0,1.0,4000.0,5MP+8MP,13.0,5.45,4.0
+440,Huawei,42506,82000,48,Honor 8A 3+32GB 6.09 Inch Face Unlock Smartphone 3020mAh - Red,100,1,32.0,3.0,3020.0,,21.0,6.09,5.0
+441,Sony,43900,46900,6,Xperia Z5 Phone RAM 3GB ROM 32GB 4G LTE Android Octa Core 5.2 Inch 23MP Camera -Green,100,1,32.0,3.0,,23MP,23.0,5.2,5.0
+442,Gionee,53300,199000,73,"M6 Plus(4GB RAM +64GB ROM ,8MP+16MP Camera, 6020mAh Battery, Dual SIM 4G, 6 Inch FHD Display)-Gold",50,6,64.0,4.0,6020.0,8MP+16MP,24.0,6.0,2.5
+443,Huawei,210000,210000,0,Y7 Pro 2019 Mobile Phone 6.26inch TFT LCD 4GB RAM 64GB ROM 16MP+2+13MP+2MP Purple Blue/ Black,100,1,64.0,4.0,,16MP+13MP+2MP,31.0,6.26,5.0
+444,XIAOMI,23499,36699,36,Redmi Note 3 Used 2GB RAM+16GB ROM 4G LTE 90% New Used Smartphone 5.5 Inch Screen Face Detection-Gold,80,2,16.0,2.0,,,21.0,5.5,4.0
+445,Tecno,55000,55000,0,"Camon CM-5.7inch HD,Android 7.0,(4GLTE),Daul Nano Sim,13mp Front And 13mp Back Camera, 2GB RAM+16GB ROM,Battery 3000mAh- City Blue",96,5,16.0,2.0,3000.0,13mp+13mp,26.0,5.7,5.0
+446,Nokia,62500,103643,40,"X5 - 5.86-Inch HD+ (3GB RAM + 32GB ROM) Android 8.1, (13.0MP + 5.0MP) + 8.0MP, 4G LTE Smartphone",87,762,32.0,3.0,,13.0MP+5.0MP+8.0MP,26.0,5.86,4.5
+447,Huawei,50660,65858,23,4G Smartphone 5.2 Inch Android 5.1 Octa Core 1.5GHz 3GB RAM 32GB ROM Fingerprint Sensor – BLUE,100,2,32.0,3.0,,,21.0,5.2,5.0
+448,Vernee,53856,107712,50,5.5 Inch 18:9 Bezel-less Full Screen Smartphone 3GB RAM 16GB ROM Mobile Phone Android 8.1 MTK6739 Quad Core 4080mAh 13MP Dual Rear Cameras 4G LTE Cellphone,100,2,16.0,3.0,4080.0,13MP,13.0,5.5,5.0
+449,Nokia,0,19000,53,215 Cellphone 2.4'' Single Dual SIM 0.3MP 2G GSM 900 / 1800,60,2,32.0,4.0,,0.3MP,3.0,2.4,3.0
+450,Cubot,25399,29999,15,"R9 5-Inch (2GB, 16GB ROM) Android 7.0 Nougat, 13MP + 5MP 3G Smartphone - Blue",75,48,16.0,2.0,,13MP+5MP,18.0,5.0,4.0
+451,Samsung,111200,111200,0,"Galaxy A30s 6.4-Inch (4GB,64GB ROM) Android 9.0, (25MP+8MP+5MP)+ 16MP Dual SIM 4000mAh 4G LTE - Prism Crush White",80,1,64.0,4.0,4000.0,25MP+8MP+5MP+16MP,54.0,6.4,4.0
+452,Gionee,48757,206815,76,M6 5.5'HD 4G RAM+64G ROM 13MP 8MP Camera 5000mAh Battery Android OS 4G Smartphone,100,1,64.0,4.0,5000.0,13MP+8MP,21.0,5.5,5.0
+453,Huawei,101835,136240,25,"Honor 8X Max 6GB+64GB 7.12"" Dual Camera Snapdragon 660 Octa Core Fingerprint Unlock Dual SIM 18W QC 5000mAh-Blue",100,2,64.0,6.0,5000.0,,21.0,7.12,5.0
+454,Tecno,99900,130000,23,"Camon 11 PRO (CF8) 6.2-Inch Super FULLVIEW (6GB, 64GB ROM) Android 8.1 Oreo, (16MP + 5MP) + 24MP Dual SIM 4G LTE Face ID Smartphone",87,26,64.0,6.0,,16MP+5MP+24MP,45.0,6.2,4.5
+455,Ulefone,150999,150999,0,"Power 3S 6.0"" 6350mAh Mobile Phone Android 7.1 4GB+64GB16MP 4 Camera  Face ID 4G Smartphone- Black",100,1,64.0,4.0,6350.0,16MP,16.0,6.0,5.0
+456,Leagoo,29999,29999,0,"M9 5.5-Inch IPS (2GB,16GB ROM) Android 7.0 Nougat (8MP + 2MP) + (5MP + 2MP) 3G Smartphone - Gold",84,6,16.0,2.0,,8MP+2MP+5MP+2MP,17.0,5.5,4.5
+457,LG,30900,48667,37,"LG Wine Smart LG H410 Korean Keyboard Quad Core 3.2"" 1GB RAM 4GB ROM 3.15MP 4G LTE Slider Smartphone(Wine Red)",100,1,4.0,1.0,,3.15MP,18.0,3.2,5.0
+458,Asus,47990,83999,43,Zenfone 4 Max Plus X015D Smartphone 5.5 Inch MT6750 5000mAh Battery -Black,100,1,32.0,4.0,5000.0,,21.0,5.5,5.0
+459,Oukitel,53120,69056,23,K7 Pro 6-inch 4GB RAM 64GB ROM 10000mAh Battery Android 9.0 - BLACK,100,1,64.0,4.0,10000.0,,21.0,6.0,5.0
+460,Samsung,301000,301000,0,"Galaxy S9 Plus (S9+) 6.2-Inch QHD (6GB, 64GB ROM) Android 8.0 Oreo, 12MP + 8MP Dual SIM 4G Smartphone - Lilac Purple ",89,15,64.0,6.0,,12MP+8MP,20.0,6.2,4.5
+461,Gionee,48000,210000,77,"M7 Power (4GB, 64GB ROM) 5000mAh, 13MP+8MP, Android 7.1.1, Dual Sim 4G LTE - Black",80,1,64.0,4.0,5000.0,13MP+8MP,21.0,6.0,4.0
+462,Blackview,44400,63429,30,"BV5500 Pro Rugged Phone, 3GB+16GB, 5.5 Inch Android 9.0 4G Smartphone - Yellow",20,1,16.0,3.0,,,21.0,5.5,1.0
+463,Honor,48000,48000,0,7 Play 5.45 Inch HD 2GB+16GB Android 8.1 Dual Sim 13MP + 5MP 4G LTE Smartphone - Blue,95,4,16.0,2.0,,13MP+5MP,18.0,5.45,5.0
+464,Blackberry,92900,120000,23,Priv 5.4inch Cellphone 3GB RAM 32GB ROM 4G Lte Mobile Phone,100,1,32.0,3.0,,,21.0,5.4,5.0
+465,Letv,26970,38574,30,"Le 2 X526 4G 5.5"" 3GB RAM + 32GB ROM Android 6.0 3000mAh Battery - Gold",90,2,32.0,3.0,3000.0,,21.0,5.5,4.5
+466,XIAOMI,42480,55224,23,Mi A1 4G 5.5 Inch Android One 4GB RAM 32GB ROM 3080mAh Battery-Black,80,1,32.0,4.0,3080.0,,21.0,5.5,4.0
+467,Oppo,36500,85000,57,OPPO A57 5.2 Inch 3GB 32GB (Expandable Up To 256GB) Android 6.0 Qualcomm Octa- Pink,100,1,32.0,3.0,,,21.0,5.2,5.0
+468,Samsung,225000,225000,0,"Galaxy Note 10 Lite  6.7-Inch (6GB RAM, 128GB ROM), Dual SIM 4500 MAh Smartphone - Aura Black",100,2,128.0,6.0,4500.0,,21.0,6.7,5.0
+469,Blackview,44280,63257,30,"BV5500 Pro Rugged Phone 3GB+16GB 4400mAh Battery 5.5"" Android 9.0 Smartphone - Yellow",80,1,16.0,3.0,4400.0,,21.0,5.5,4.0
+470,Nokia,129000,129000,0,"7.2, 6.3-Inch LCD (6GB RAM, 128GB ROM) Android 9 Pie (48MP + 8MP + 5MP)+20MP, Dual SIM 4G Smartphone - GREEN",100,1,128.0,6.0,,48MP+8MP+5MP+20MP,81.0,6.3,5.0
+471,Nokia,129000,129000,0,"7.2, 6.3-Inch LCD (6GB RAM, 128GB ROM) Android 9 Pie, (48MP + 8MP + 5MP)+20MP, Dual SIM 4G Smartphone - Charcoal",80,1,128.0,6.0,,48MP+8MP+5MP+20MP,81.0,6.3,4.0
+472,Infinix,39500,45000,12,"Smart 4, 6.6-Inch HD+, (1GB,16GB ROM) Android 9.0 Pie, 5MP + 8MP, Dual SIM, 4000mAh 4G Smartphone - Cosmic Purple",100,1,16.0,1.0,4000.0,5MP+8MP,13.0,6.6,5.0
+473,Nokia,129000,129000,0,"7.2, 6.3-Inch LCD (6GB RAM, 128GB ROM) Android 9 Pie(48MP + 8MP + 5MP)+20MP, Dual SIM 4G Smartphone - ICE",100,1,128.0,6.0,,48MP+8MP+5MP+20MP,81.0,6.3,5.0
+474,Infinix,49500,59000,16,"Infinix Hot 8 (X650B) ,6.6"" ,32GB ROM, 2GB RAM , 4G , Andriod 9 Pie , 5000mAh ,(13MP+2MP)+ 8MP Selifie - Midnight Black.",60,2,32.0,2.0,5000.0,13MP+2MP+8MP,23.0,6.6,3.0
+475,Tecno,59990,59990,0,"Pouvoir 2 Pro (la7pro), Phantom Black, 32+3gb, 5000mah, 6.0 Hd""",100,1,32.0,3.0,5000.0,,21.0,6.0,5.0
+476,Itel,19990,19990,0,"A14 4"" Screen, Android 8.1(GO Edition), 512MB RAM, 8GB ROM  + Free Cover & Bluetooth Earphone",100,1,32.0,8.0,,,21.0,4.0,5.0
+477,Tecno,57490,71000,19,"Camon 12 (CC7) - 6.52"" HD+ (4GB RAM + 64GB ROM) AI Triple Rear Camera, 4000mAh, 4G, Fingerprint & Face ID - Jade.",100,1,64.0,4.0,4000.0,,21.0,6.52,5.0
+478,Tecno,49990,49990,0,"Spark 4 (KC8) 6.52"" HD+ - (32GB ROM + 2GB RAM), 13MP Triple AI Camera + FREE GIFTS ATTACHED - Purple",95,28,32.0,2.0,,13MP,13.0,6.52,5.0
+479,Gionee,65500,65500,0,"S8s Gold - 5.86' 32GB ROM, 3GB RAM, 13MP Camera, 4G LTE Smartphone With 15 Months Warranty",84,33,32.0,3.0,,13MP,13.0,5.86,4.5
+480,Hoot,16200,32400,50,5.72'' M10 Plus Android 5.1 4G Cell Phone Smartphone 1GB+ 4GB Quad Core Dual SIM,20,1,4.0,1.0,,,21.0,5.72,1.0
+481,Infinix,66900,75000,11,"HOT 8 6.52"" HD+ (64GB ROM,4GB RAM) (13MP + 2MP + QVGA) + 8MP Front Camera 5000mAh-Quetzal Cyan",80,1,64.0,4.0,5000.0,13MP+2MP+8MP,23.0,6.52,4.0
+482,Itel,16000,17000,6,"A14 Max(W4003)- 4.0""- Android 8.1- 16GB ROM + 512MB RAM, 3000mAh Battery, Spotlight Torch, Drop Resistant - YELLOW",80,4,16.0,4.0,3000.0,,21.0,4.0,4.0
+483,Cubot,47540,95080,50,P7 5inch MTK6582M 1.0GHz Quad-core Smartphone,20,1,32.0,4.0,,,21.0,5.0,1.0
+484,Nokia,130000,130000,0,"8 5.3-Inch (4GB,64GB ROM) Dual 13MP + 13MP, Android 7.1 Nougat Dual SIM 4G Smartphone - BLUE",86,41,64.0,4.0,,13MP+13MP,26.0,5.3,4.5
+485,Itel,30000,31000,3,"S15 6.088"" HD+, 1GB RAM + 16GB ROM, 16MP AI Front Camera, Android 9, Face ID & Fingerprint, 3000mAh - Gradation Red",100,1,16.0,1.0,3000.0,16MP,16.0,6.09,5.0
+486,Samsung,399000,399000,0,"Galaxy S8 Plus (S8+) 6.2-Inch QHD (4GB,64GB ROM) Android 7.0 Nougat, 12MP + 8MP LTE Smartphone - Maple Gold",91,84,64.0,4.0,,12MP+8MP,20.0,6.2,5.0
+487,Gionee,89999,89999,0,"M6 (GN8003) 5.5-Inch HD (4GB,64GB ROM) Android 6.0 Marshmallow, 13MP + 8MP Dual SIM 4G Smartphone - Gold",57,11,64.0,4.0,,13MP+8MP,21.0,5.5,3.0
+488,Sailf,14399,27599,48,New Android Smartphone Face Recognition 5.0 Inch Dual Card 512M+4GB,76,5,32.0,4.0,,,21.0,5.0,4.0
+489,Huawei,39999,39999,0,"Y5 Lite 5.45-Inch HD+ (1GB, 16GB ROM) Android 8.1 Oreo Go, 8MP + 5MP Dual SIM 4G Smartphone - Blue",85,5,16.0,1.0,,8MP+5MP,13.0,5.45,4.5
+490,Samsung,240000,240000,0,"Galaxy Note 9 6.4-Inch (6GB RAM, 128GB ROM) Android 8.1 (12MP + 12MP) Dual SIM LTE - Metallic Copper",100,1,128.0,6.0,,12MP+12MP,24.0,6.4,5.0
+491,Tecno,37800,37800,0,"Pouvoir 3 Air  6.0"" 5000mAh, Android™ 9.0, 16GB+ 1GB RAM, 4G LTE, 8+8MP Camera, 2.0GHz Face ID, Fingerprint - Black",85,516,16.0,1.0,5000.0,8MP,8.0,6.0,4.5
+492,Tecno,37500,37500,0,"F1, 5.0 Inch, 1GBRAM + 8GB ROM, Battery 2000Mah Removable, Andriod 8.1(Go Edition), Champagne Gold.",84,350,8.0,1.0,2000.0,,21.0,5.0,4.5
+493,Samsung,350000,450000,22,"Galaxy S10 Plus (S10+) 6.4-Inch AMOLED (8GB, 128GB ROM) Android 9.0 Pie, (12MP + 12MP + 16MP)+(10MP+8MP) Dual SIM 4G Smartphone - Prism White",95,14,128.0,8.0,,12MP+12MP+16MP+10MP+8MP,58.0,6.4,5.0
+494,Tecno,62000,62000,0,Camon 12  4GB RAM 64GB ROM Android 9 Pie Sky Cyan,94,3,64.0,4.0,,,21.0,6.0,5.0
+495,Infinix,85000,100000,15,"Note 6 (X610B) 6.01"" AMOLED (4GB RAM, 64GB ROM) Android 9 Pie,(16MP+8MP+2MP) Triple +16MP 4000mAh 4G LTE Smartphone",89,5,64.0,4.0,4000.0,16MP+8MP+2MP+16MP,42.0,6.01,4.5
+496,Tecno,140000,140000,0,"Spark Youth (KA6) 6.0""- (1GB RAM 16GB ROM),8MP+8MP, 3G, Fingerprint, Face Unlock Smartphone-Midnight Black",86,107,16.0,1.0,,8MP+8MP,16.0,6.0,4.5
+497,Huawei,95899,128280,25,"Y Max 4GB+128G 7.12"" 16MP+2MP AI Dual Camera Snapdragon 660 Octa Core Fingerprint Unlock Dual SIM 5000mAh-Brown",88,8,128.0,4.0,5000.0,16MP+2MP,18.0,7.12,4.5
+498,XIAOMI,189999,189999,0,"New Xiaomi Redmi Note 7 Pro  6.3""（6GB +128GB）MIUI 10（48+13MP）4000mAh  Smartphone - GOLD",100,1,128.0,6.0,4000.0,13MP,13.0,6.3,5.0
+499,Tecno,44500,48000,7,"Spark 4 (KC8) 6.52"" HD+ Dot Notch, 2GB RAM+32GB ROM, Android 9 Pie, 13MP+8MP, 4000mah, 4G Smart Phone- Vocation Blue",74,3,32.0,2.0,4000.0,13MP+8MP,21.0,6.52,4.0
+500,XIAOMI,63490,121500,48,"Redmi Note8, 4G, 6.3 Inch (4GB RAM + 64GB ROM) MIUI 10, Four Rear Caremas - BLUE",100,1,64.0,4.0,,,21.0,6.3,5.0
+501,Cubot,71999,79999,10,X20 Pro 4G Phablet 6.3 Inch Android 9.0 6GB RAM 128GB ROM 4000mAh Battery-Ocean Blue,80,1,128.0,6.0,4000.0,,21.0,6.3,4.0
+502,Nomu,32999,45999,28,"S30 Mini 4G 4.7""inch(3GB RAM 32GB ROM) Android 7.0  8.0MP Rear Camera 3000mAh Battery - Silver",77,6,32.0,3.0,3000.0,8.0MP,8.0,4.7,4.0
+503,XIAOMI,63760,121500,48,"Redmi Note8, 4G, 6.3"", 4GB RAM + 64GB ROM, MIUI 10, Four Rear Caremas - White",100,1,64.0,4.0,,,21.0,6.3,5.0
+504,XIAOMI,63760,121500,48,"Redmi Note8, 4G, 6.3 Inch (4GB RAM + 64GB ROM) MIUI 10, Four Rear Caremas - White",100,1,64.0,4.0,,,21.0,6.3,5.0
+505,Itel,23000,23000,0,"A33 5.0"" Screen, Android 8.1, 16GB ROM + 1GB ROM, 2PCS 2200mAh Battery, Fingerprint, 5+2MP Camera - Blue + FREE CASE",85,212,16.0,1.0,2200.0,2MP,2.0,5.0,4.5
+506,Itel,20499,25000,18,"A16plus - 5.0""Screen 8GB ROM-1GB RAM, Android 8.1(GO Edition) 2050maAh 5.0MP AF Camera - Phantom Black",100,1,8.0,1.0,,5.0MP,5.0,5.0,5.0
+507,Itel,29490,30000,2,"P33 Plus 6.0"" Android 8.1  (16GB+1GB RAM,) Dual Rear Camera - Gradation Blue +FREE CASE",88,233,16.0,1.0,,,21.0,6.0,4.5
